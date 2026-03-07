@@ -952,34 +952,4 @@ https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2fa215cc-332c-4181-8d30-cb32ab9b7f61.png" group-title="🇺🇿 O'zbekiston",O'zbekiston-24
 https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/c037c019-f6e7-41fb-8001-d5adeec3b69a.png" group-title="🇺🇿 O'zbekiston",O'zbekiston tarixi
-https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/257d6f2f-a233-4e37-8767-af7d224876f8.png" group-title="🇺🇿 O'zbekiston",Mahalla
-https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/05/02/a4ef516d-f6c6-4b3a-b1c3-1ee5c37f77fd.png" group-title="🇺🇿 O'zbekiston",iTV Music
-https://stream8.cinerama.uz/4001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/8f0b15f3-746e-425a-9057-ad1efbb274ec.jpeg" group-title="🇺🇿 O'zbekiston",Муз-ТВ O'zbekiston
-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/9216690c-a093-4029-9b5a-60db8b4f733e.png" group-title="🇺🇿 O'zbekiston",Navo
-https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/12/02/85251811-aae5-4eea-84a6-145d713229f5.png" group-title="🇺🇿 O'zbekiston",FTV
-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/6b8fa054-cd8d-4722-9964-f5109ef45df6.jpeg" group-title="🇺🇿 O'zbekiston",S-Music
-https://stream2.cinerama.uz/1476/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/a6bd8e61-84e3-440e-b2d1-d34b3c7a90ab.jpg" group-title="🇺🇿 O'zbekiston",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.m3u8
-http://188.225.31.197/bpk-tv/000003246/tve/index.m3u8
-#EXTINF:-1 group-title="🇰🇿 Таджикистан",ФутболТВ
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан",Шахнавоз
-https://live.teleradiocom.tj/9/3m.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистанiriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="♻️ Региональный",С1 Сургут 86
-https://sitv.ru/hls/s86512.m3u8
-#EXTINF:-1 group-title="♻️ Региональный",Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="♻️ Региональный",ТОЛК
-https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="♻️ Региональный",Краснодар HD
-https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="♻️ 
+
