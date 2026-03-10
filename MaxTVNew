@@ -1012,7 +1012,7 @@ https://iptv.prosto.tv/id388/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id317/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00517.jpg" group-title="🎬 Кинозал",Повний Мульт
 https://iptv.prosto.tv/id517/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00552.png" group-title="🎬 Кинозал",ICTV 2 HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00552.png" group-title="Украина",ICTV 2 HD
 https://iptv.prosto.tv/id552/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="5" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00005.png" tvg-name="СТБ" group-title="🇷🇺 Россия",СТБ HD
 https://iptv.prosto.tv/id5/video.m3u8?secret=0h67fdob&21yo=0
@@ -1026,7 +1026,7 @@ https://iptv.prosto.tv/id485/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id412/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00413.png" group-title="🇷🇺 Россия",Новий канал SD
 https://iptv.prosto.tv/id413/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00293.jpg?1692113837" group-title="🇷🇺 Россия1",ТрансМІСІЯ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00293.jpg?1692113837" group-title="Украина",ТрансМІСІЯ
 https://iptv.prosto.tv/id293/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01094.png?1771579945" group-title="🇷🇺 Россия",нов. | FASHION (world) HD
 https://iptv.prosto.tv/id1094/video.m3u8?secret=0h67fdob&21yo=0
@@ -1036,25 +1036,25 @@ https://iptv.prosto.tv/id1095/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id17/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00879.png?1725200602" group-title="🇷🇺 Россия",Супермама HD
 https://iptv.prosto.tv/id879/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="239" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00239.png?1681296709" tvg-name="UA Перший" group-title="🇷🇺 Россия",UA:Перший HD
+#EXTINF:-1 tvg-id="239" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00239.png?1681296709" tvg-name="UA Перший" group-title="Украина",UA:Перший HD
 https://iptv.prosto.tv/id239/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="8" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00008.png" tvg-name="5 канал" group-title="🇷🇺 Россия",5 канал HD
 https://iptv.prosto.tv/id8/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="159" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00159.png" tvg-name="Рада" group-title=🇷🇺 Россия"",Рада HD
+#EXTINF:-1 tvg-id="159" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00159.png" tvg-name="Рада" group-title="Украина",Рада HD
 https://iptv.prosto.tv/id159/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00477.png" group-title="🇷🇺 Россия",Inter + HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00477.png" group-title="Украина",Inter + HD
 https://iptv.prosto.tv/id477/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="10" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00010.png" tvg-name="Прямой" group-title="🇷🇺 Россия",Прямой HD
 https://iptv.prosto.tv/id10/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="28" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00028.png?1694782406" tvg-name="ТК Киев" group-title="🇷🇺 Россия",КИЇВ24 HD
+#EXTINF:-1 tvg-id="28" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00028.png?1694782406" tvg-name="ТК Киев" group-title="Украина",КИЇВ24 HD
 https://iptv.prosto.tv/id28/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="29" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00029.png?1681297582" tvg-name="UA Киев" group-title="🇷🇺 Россия",Суспільне Київ HD
+#EXTINF:-1 tvg-id="29" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00029.png?1681297582" tvg-name="UA Киев" group-title="Украина",Суспільне Київ HD
 https://iptv.prosto.tv/id29/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="169" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00169.png" tvg-name="Espresso HD" group-title="🇷🇺 Россия",Espresso TV HD
+#EXTINF:-1 tvg-id="169" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00169.png" tvg-name="Espresso HD" group-title="Украина",Espresso TV HD
 https://iptv.prosto.tv/id169/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="22" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00022.png?1755005110" tvg-name="УНІАН" group-title="🇷🇺 Россия",УНІАН Серіал HD
+#EXTINF:-1 tvg-id="22" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00022.png?1755005110" tvg-name="УНІАН" group-title="Украина",УНІАН Серіал HD
 https://iptv.prosto.tv/id22/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00917.png?1739524233" group-title="📡 Mix-TV 01",Про Київ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00917.png?1739524233" group-title="Украина",Про Київ
 https://iptv.prosto.tv/id917/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="24" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00024.png" tvg-name="Euronews" group-title="📡 Mix-TV 01",Euronews
 https://iptv.prosto.tv/id24/video.m3u8?secret=0h67fdob&21yo=0
