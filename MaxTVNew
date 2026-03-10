@@ -160,6 +160,7 @@ https://stream1.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/547e0fb2-dc3e-4e8b-9f50-696e5a8a38ca.png" group-title="🇷🇺 Россия",РБК
 https://stream1.cinerama.uz/1438/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/d53465e1-9972-43fe-ad82-e3630d1fd30b.png" group-title="🇷🇺 Россия",Qazaqstan
 https://stream1.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/7fc88f01-8941-4053-98f2-8a209848c61d.jpeg" group-title="🇷🇺 Россия",24KZ
@@ -344,7 +345,7 @@ http://91.198.104.13:8001/udp/237.0.13.64:10000
 http://91.198.104.13:8001/udp/237.0.13.27:10000
 #EXTINF:-1 group-title="🇷🇺 Россия",Известия
 http://91.198.104.13:8001/udp/237.0.13.63:10000
-#EXTINF:-1 group-title="🇷🇺Россия",Крым 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Крым 24
 http://91.198.104.13:8001/udp/237.0.13.59:10000
 #EXTINF:-1 group-title="🇷🇺 Россия",Мир 24
 http://91.198.104.13:8001/udp/237.0.13.85:10000
@@ -542,8 +543,7 @@ http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="🎬", Наука 2.0
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:-1 group-title="🎬", RTG TV
-http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
+
 #EXTINF:-1 group-title="🎬", Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 group-title="🎬", Clarity4K Ужасы
@@ -578,8 +578,7 @@ http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 http://hls127.freeott.top:8080/Maydan/mono.m3u8
 #EXTINF:-1 group-title="🎬", Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 group-title="🎬", MyTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
+
 #EXTINF:-1 group-title="🎬", Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 group-title="🎬", Ностальгия
