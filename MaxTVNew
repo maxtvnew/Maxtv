@@ -222,209 +222,205 @@ http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/726/index.m3u8
 #EXTINF:0,Киноужас HD
 #EXTGRP:🍿Киноужас 
 http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/2056/index.m3u8
-#EXTINF:0 group-title="Кино"  tvg-id="shokiruyushchee-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png",Шокирующее HD
-#EXTGRP:🍿Киноужас
-http://ott.server-iptv.live/1661/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-uzhasy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png",CineMan Ужасы
-#EXTGRP:🍿Киноужас
-http://ott.server-iptv.live/692/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 tvg-logo="" group-title="🍿Киноужас ",IPTVPLAY УЖАСТИК HD 
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="📁 MaxTV",Первый HD
+#EXTINF:-1 group-title="🍿Киноужас", Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="🇷🇺 Россия",Первый HD
 http://91.198.104.13:8001/udp/237.0.11.1:10000
-#EXTINF:-1 group-title="📁 MaxTV",RU Россия 1
+#EXTINF:-1 group-title="🇷🇺 Россия",RU Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
-#EXTINF:-1 group-title="📁 MaxTV",Россия 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Россия 24
 http://91.198.104.13:8001/udp/237.0.11.29:10000
-#EXTINF:-1 group-title="📁 MaxTV",Че!
+#EXTINF:-1 group-title="🇷🇺 Россия",Че!
 http://5.188.221.43:8080/play/che
-#EXTINF:-1 group-title="📁 MaxTV",Че
+#EXTINF:-1 group-title="🇷🇺 Россия",Че
 http://91.198.104.13:8001/udp/237.0.13.86:10000
-#EXTINF:-1 group-title="📁 MaxTV",Рен ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Рен ТВ
 http://91.198.104.13:8001/udp/237.0.13.19:10000
 #EXTGRP:📁 MaxTV
 http://ott.server-iptv.live/106/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="📁 MaxTV"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-sd.png",РЕН ТВ
+#EXTINF:0 group-title="🇷🇺 Россия"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-sd.png",РЕН ТВ
 #EXTGRP:📁 MaxTV
 http://ott.server-iptv.live/0106/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="📁 MaxTV"  tvg-id="rentv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl2.png",РЕН ТВ +2
+#EXTINF:0 group-title="🇷🇺 Россия"  tvg-id="rentv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl2.png",РЕН ТВ +2
 #EXTGRP:📁 MaxTV
 http://ott.server-iptv.live/188/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="📁 MaxTV"  tvg-id="rentv-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl4.png",Рен ТВ +4
+#EXTINF:0 group-title="🇷🇺 Россия"  tvg-id="rentv-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl4.png",Рен ТВ +4
 #EXTGRP:📁 MaxTV
 http://ott.server-iptv.live/193/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="📁 MaxTV"  tvg-id="rentv-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl7.png",Рен ТВ +7
+#EXTINF:0 group-title="🇷🇺 Россия"  tvg-id="rentv-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/rentv-pl7.png",Рен ТВ +7
 #EXTGRP:📁 MaxTV
 http://ott.server-iptv.live/166/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 group-title="📁 MaxTV",Пятый канал
+#EXTINF:-1 group-title="🇷🇺 Россия",Пятый канал
 http://91.198.104.13:8001/udp/237.0.11.31:10000
-#EXTINF:-1 group-title="📁 MaxTV",ОТР
+#EXTINF:-1 group-title="🇷🇺 Россия",ОТР
 http://91.198.104.13:8001/udp/237.0.11.56:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТВ Центр
+#EXTINF:-1 group-title="🇷🇺 Россия",ТВ Центр
 http://91.198.104.13:8001/udp/237.0.11.57:10000
-#EXTINF:-1 group-title="📁 MaxTV",Звезда
+#EXTINF:-1 group-title="🇷🇺 Россия",Звезда
 http://91.198.104.13:8001/udp/237.0.10.5:10000
-#EXTINF:-1 group-title="📁 MaxTV",МИР
+#EXTINF:-1 group-title="🇷🇺 Россия",МИР
 http://91.198.104.13:8001/udp/237.0.10.19:10000
-#EXTINF:-1 group-title="📁 MaxTV",ЛДПР тв
+#EXTINF:-1 group-title="🇷🇺 Россия",ЛДПР тв
 http://91.198.104.13:8001/udp/237.0.13.44:10000
-#EXTINF:-1 group-title="📁 MaxTV",Мир Белогорья
+#EXTINF:-1 group-title="🇷🇺 Россия",Мир Белогорья
 http://91.198.104.13:8001/udp/237.0.10.36:10000
-#EXTINF:-1 group-title="📁 MaxTV",Губерния
+#EXTINF:-1 group-title="🇷🇺 Россия",Губерния
 http://91.198.104.13:8001/udp/237.0.13.1:10000
-#EXTINF:-1 group-title="📁 MaxTV",8 канал
+#EXTINF:-1 group-title="🇷🇺 Россия",8 канал
 http://91.198.104.13:8001/udp/237.0.13.25:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТНВ
+#EXTINF:-1 group-title="🇷🇺 Россия",ТНВ
 http://91.198.104.13:8001/udp/237.0.12.112:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТНВ-планета
+#EXTINF:-1 group-title="🇷🇺 Россия",ТНВ-планета
 http://91.198.104.13:8001/udp/237.0.11.20:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТНТ
+#EXTINF:-1 group-title="🇷🇺 Россия",ТНТ
 http://91.198.104.13:8001/udp/237.0.13.20:10000
-#EXTINF:-1 group-title="📁 MaxTV",СТС
+#EXTINF:-1 group-title="🇷🇺 Россия",СТС
 http://91.198.104.13:8001/udp/237.0.10.15:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТВ-3
+#EXTINF:-1 group-title="🇷🇺 Россия",ТВ-3
 http://91.198.104.13:8001/udp/237.0.13.6:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТНТ4
+#EXTINF:-1 group-title="🇷🇺 Россия",ТНТ4
 http://91.198.104.13:8001/udp/237.0.11.10:10000
-#EXTINF:-1 group-title="📁 MaxTV",Калейдоскоп ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Калейдоскоп ТВ
 http://91.198.104.13:8001/udp/237.0.13.47:10000
-#EXTINF:-1 group-title="📁 MaxTV",Пятница
+#EXTINF:-1 group-title="🇷🇺 Россия",Пятница
 http://91.198.104.13:8001/udp/237.0.13.21:10000
-#EXTINF:-1 group-title="📁 MaxTV",Сарафан ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Сарафан ТВ
 http://91.198.104.13:8001/udp/237.0.13.42:10000
-#EXTINF:-1 group-title="📁 MaxTV",Ю
+#EXTINF:-1 group-title="🇷🇺 Россия",Ю
 http://91.198.104.13:8001/udp/237.0.13.52:10000
-#EXTINF:-1 group-title="📁 MaxTV",Домашний
+#EXTINF:-1 group-title="🇷🇺 Россия",Домашний
 http://91.198.104.13:8001/udp/237.0.11.35:10000
-#EXTINF:-1 group-title="📁 MaxTV",СТС Love
+#EXTINF:-1 group-title="🇷🇺 Россия",СТС Love
 http://91.198.104.13:8001/udp/237.0.13.2:10000
-#EXTINF:-1 group-title="📁 MaxTV",SHOT TV
+#EXTINF:-1 group-title="🇷🇺 Россия",SHOT TV
 http://91.198.104.13:8001/udp/237.0.12.23:10000
-#EXTINF:-1 group-title="📁 MaxTV",Канал 2x2
+#EXTINF:-1 group-title="🇷🇺 Россия",Канал 2x2
 http://91.198.104.13:8001/udp/237.0.11.11:10000
-#EXTINF:-1 group-title="📁 MaxTV",Суббота!
+#EXTINF:-1 group-title="🇷🇺 Россия",Суббота!
 http://91.198.104.13:8001/udp/237.0.11.12:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТРО
+#EXTINF:-1 group-title="🇷🇺 Россия",ТРО
 http://91.198.104.13:8001/udp/237.0.10.3:10000
-#EXTINF:-1 group-title="📁 MaxTV",Авто24 HD
+#EXTINF:-1 group-title="🇷🇺 Россия",Авто24 HD
 http://91.198.104.13:8001/udp/237.0.10.32:10000
-#EXTINF:-1 group-title="📁 MaxTV",Бобер
+#EXTINF:-1 group-title="🇷🇺 Россия",Бобер
 http://91.198.104.13:8001/udp/237.0.10.40:10000
-#EXTINF:-1 group-title="📁 MaxTV",Вкусное TV
+#EXTINF:-1 group-title="🇷🇺 Россия",Вкусное TV
 http://91.198.104.13:8001/udp/237.0.10.35:10000
-#EXTINF:-1 group-title="📁 MaxTV",Драйв ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Драйв ТВ
 http://91.198.104.13:8001/udp/237.0.10.34:10000
-#EXTINF:-1 group-title="📁 MaxTV",Зоо ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Зоо ТВ
 http://91.198.104.13:8001/udp/237.0.10.16:10000
-#EXTINF:-1 group-title="📁 MaxTV",Загородный
+#EXTINF:-1 group-title="🇷🇺 Россия",Загородный
 http://91.198.104.13:8001/udp/237.0.10.43:10000
-#EXTINF:-1 group-title="📁 MaxTV",История
+#EXTINF:-1 group-title="🇷🇺 Россия",История
 http://91.198.104.13:8001/udp/237.0.13.46:10000
-#EXTINF:-1 group-title="📁 MaxTV",Культура
+#EXTINF:-1 group-title="🇷🇺 Россия",Культура
 http://91.198.104.13:8001/udp/237.0.10.38:10000
-#EXTINF:-1 group-title="📁 MaxTV",Моя планета
+#EXTINF:-1 group-title="🇷🇺 Россия",Моя планета
 http://91.198.104.13:8001/udp/237.0.13.7:10000
-#EXTINF:-1 group-title="📁 MaxTV",Наука 2.0
+#EXTINF:-1 group-title="🇷🇺 Россия",Наука 2.0
 http://91.198.104.13:8001/udp/237.0.13.22:10000
-#EXTINF:-1 group-title="📁 MaxTV",Открытый мир
+#EXTINF:-1 group-title="🇷🇺 Россия",Открытый мир
 http://91.198.104.13:8001/udp/237.0.13.55:10000
-#EXTINF:-1 group-title="📁 MaxTV",Russian Travel Guide (RTG TV)
+#EXTINF:-1 group-title="🇷🇺 Россия",Russian Travel Guide (RTG TV)
 http://91.198.104.13:8001/udp/237.0.11.9:10000
-#EXTINF:-1 group-title="📁 MaxTV",Точка тв
+#EXTINF:-1 group-title="🇷🇺 Россия",Точка тв
 http://91.198.104.13:8001/udp/237.0.10.45:10000
-#EXTINF:-1 group-title="📁 MaxTV",Телепутешествия
+#EXTINF:-1 group-title="🇷🇺 Россия",Телепутешествия
 http://91.198.104.13:8001/udp/237.0.10.9:10000
-#EXTINF:-1 group-title="📁 MaxTV",Точка отрыва
+#EXTINF:-1 group-title="🇷🇺 Россия",Точка отрыва
 http://91.198.104.13:8001/udp/237.0.10.41:10000
-#EXTINF:-1 group-title="📁 MaxTV",Успех
+#EXTINF:-1 group-title="🇷🇺 Россия",Успех
 http://91.198.104.13:8001/udp/237.0.11.4:10000
-#EXTINF:-1 group-title="📁 MaxTV",Усадьба
+#EXTINF:-1 group-title="🇷🇺 Россия",Усадьба
 http://91.198.104.13:8001/udp/237.0.10.23:10000
-#EXTINF:-1 group-title="📁 MaxTV",Красная линия
+#EXTINF:-1 group-title="🇷🇺 Россия",Красная линия
 http://91.198.104.13:8001/udp/237.0.13.57:10000
-#EXTINF:-1 group-title="📁 MaxTV",Silk Way HD
+#EXTINF:-1 group-title="🇷🇺 Россия",Silk Way HD
 http://91.198.104.13:8001/udp/237.0.13.64:10000
-#EXTINF:-1 group-title="📁 MaxTV",Беларусь 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Беларусь 24
 http://91.198.104.13:8001/udp/237.0.13.27:10000
-#EXTINF:-1 group-title="📁 MaxTV",Известия
+#EXTINF:-1 group-title="🇷🇺 Россия",Известия
 http://91.198.104.13:8001/udp/237.0.13.63:10000
-#EXTINF:-1 group-title="📁 MaxTV",Крым 24
+#EXTINF:-1 group-title="🇷🇺Россия",Крым 24
 http://91.198.104.13:8001/udp/237.0.13.59:10000
-#EXTINF:-1 group-title="📁 MaxTV",Мир 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Мир 24
 http://91.198.104.13:8001/udp/237.0.13.85:10000
-#EXTINF:-1 group-title="📁 MaxTV",360 Новости
+#EXTINF:-1 group-title="🇷🇺 Россия",360 Новости
 http://91.198.104.13:8001/udp/237.0.10.42:10000
-#EXTINF:-1 group-title="📁 MaxTV",Первый Крымский
+#EXTINF:-1 group-title="🇷🇺 Россия",Первый Крымский
 http://91.198.104.13:8001/udp/237.0.13.58:10000
-#EXTINF:-1 group-title="📁 MaxTV",РБК
+#EXTINF:-1 group-title="🇷🇺 Россия",РБК
 http://91.198.104.13:8001/udp/237.0.10.28:10000
-#EXTINF:-1 group-title="📁 MaxTV",Самара 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Самара 24
 http://91.198.104.13:8001/udp/237.0.11.22:10000
-#EXTINF:-1 group-title="📁 MaxTV",Телеканал 360
+#EXTINF:-1 group-title="🇷🇺 Россия",Телеканал 360
 http://91.198.104.13:8001/udp/237.0.10.37:10000
-#EXTINF:-1 group-title="📁 MaxTV",Тольятти 24
+#EXTINF:-1 group-title="🇷🇺 Россия",Тольятти 24
 http://91.198.104.13:8001/udp/237.0.10.95:10000
-#EXTINF:-1 group-title="📁 MaxTV",Союз
+#EXTINF:-1 group-title="🇷🇺 Россия",Союз
 http://91.198.104.13:8001/udp/237.0.13.23:10000
-#EXTINF:-1 group-title="📁 MaxTV",Спас ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Спас ТВ
 http://91.198.104.13:8001/udp/237.0.10.44:10000
-#EXTINF:-1 group-title="📁 MaxTV",A1
+#EXTINF:-1 group-title="🇷🇺 Россия",A1
 http://91.198.104.13:8001/udp/237.0.13.80:10000
-#EXTINF:-1 group-title="📁 MaxTV",А2
+#EXTINF:-1 group-title="🇷🇺 Россия",А2
 http://91.198.104.13:8001/udp/237.0.13.12:10000
-#EXTINF:-1 group-title="📁 MaxTV",Amedia Hit
+#EXTINF:-1 group-title="🇷🇺 Россия",Amedia Hit
 http://91.198.104.13:8001/udp/237.0.13.13:10000
-#EXTINF:-1 group-title="📁 MaxTV",Еврокино
+#EXTINF:-1 group-title="🇷🇺 Россия",Еврокино
 http://91.198.104.13:8001/udp/237.0.10.29:10000
-#EXTINF:-1 group-title="📁 MaxTV",Кино ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Кино ТВ
 http://91.198.104.13:8001/udp/237.0.12.24:10000
-#EXTINF:-1 group-title="📁 MaxTV",Кинопоказ SD
+#EXTINF:-1 group-title="🇷🇺 Россия",Кинопоказ SD
 http://91.198.104.13:8001/udp/237.0.10.11:10000
-#EXTINF:-1 group-title="📁 MaxTV",Cinema
+#EXTINF:-1 group-title="🇷🇺 Россия",Cinema
 http://91.198.104.13:8001/udp/237.0.13.17:10000
-#EXTINF:-1 group-title="📁 MaxTV",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="🇷🇺 Россия",Мосфильм. Золотая коллекция
 http://91.198.104.13:8001/udp/237.0.12.4:10000
-#EXTINF:-1 group-title="📁 MaxTV",НТВ Хит
+#EXTINF:-1 group-title="🇷🇺 Россия",НТВ Хит
 http://91.198.104.13:8001/udp/237.0.12.8:10000
-#EXTINF:-1 group-title="📁 MaxTV",Ретро ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Ретро ТВ
 http://91.198.104.13:8001/udp/237.0.10.27:10000
-#EXTINF:-1 group-title="📁 MaxTV",Русский роман
+#EXTINF:-1 group-title="🇷🇺 Россия",Русский роман
 http://91.198.104.13:8001/udp/237.0.13.37:10000
-#EXTINF:-1 group-title="📁 MaxTV",Русский Иллюзион
+#EXTINF:-1 group-title="🇷🇺 Россия",Русский Иллюзион
 http://91.198.104.13:8001/udp/237.0.10.25:10000
-#EXTINF:-1 group-title="📁 MaxTV",START Air
+#EXTINF:-1 group-title="🇷🇺 Россия",START Air
 http://91.198.104.13:8001/udp/237.0.12.21:10000
-#EXTINF:-1 group-title="📁 MaxTV",START World
+#EXTINF:-1 group-title="🇷🇺 Россия",START World
 http://91.198.104.13:8001/udp/237.0.12.22:10000
-#EXTINF:-1 group-title="📁 MaxTV",Карусель
+#EXTINF:-1 group-title="🇷🇺 Россия",Карусель
 http://91.198.104.13:8001/udp/237.0.11.37:10000
-#EXTINF:-1 group-title="📁 MaxTV",Мама
+#EXTINF:-1 group-title="🇷🇺 Россия",Мама
 http://91.198.104.13:8001/udp/237.0.13.41:10000
-#EXTINF:-1 group-title="📁 MaxTV",Мульт
+#EXTINF:-1 group-title="🇷🇺 Россия",Мульт
 http://91.198.104.13:8001/udp/237.0.13.24:10000
-#EXTINF:-1 group-title="📁 MaxTV",Рыжий
+#EXTINF:-1 group-title="🇷🇺 Россия",Рыжий
 http://91.198.104.13:8001/udp/237.0.10.20:10000
-#EXTINF:-1 group-title="📁 MaxTV",Солнце
+#EXTINF:-1 group-title="🇷🇺 Россия",Солнце
 http://91.198.104.13:8001/udp/237.0.13.51:10000
-#EXTINF:-1 group-title="📁 MaxTV",Уникум
+#EXTINF:-1 group-title="🇷🇺 Россия",Уникум
 http://91.198.104.13:8001/udp/237.0.10.24:10000
-#EXTINF:-1 group-title="📁 MaxTV",МАТЧ!
+#EXTINF:-1 group-title="🇷🇺 Россия",МАТЧ!
 http://91.198.104.13:8001/udp/237.0.11.30:10000
-#EXTINF:-1 group-title="📁 MaxTV",Тонус ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Тонус ТВ
 http://91.198.104.13:8001/udp/237.0.10.10:10000
-#EXTINF:-1 group-title="📁 MaxTV",Футбол
+#EXTINF:-1 group-title="🇷🇺 Россия",Футбол
 http://91.198.104.13:8001/udp/237.0.11.7:10000
-#EXTINF:-1 group-title="📁 MaxTV",Bridge TV Classic
+#EXTINF:-1 group-title="🇷🇺 Россия",Bridge TV Classic
 http://91.198.104.13:8001/udp/237.0.10.17:10000
-#EXTINF:-1 group-title="📁 MaxTV",Bridge TV Hits
+#EXTINF:-1 group-title="🇷🇺 Россия",Bridge TV Hits
 http://91.198.104.13:8001/udp/237.0.10.22:10000
-#EXTINF:-1 group-title="📁 MaxTV",Муз-ТВ
+#EXTINF:-1 group-title="🇷🇺 Россия",Муз-ТВ
 http://91.198.104.13:8001/udp/237.0.13.9:10000
-#EXTINF:-1 group-title="📁 MaxTV",МузСоюз
+#EXTINF:-1 group-title="🇷🇺 Россия",МузСоюз
 http://91.198.104.13:8001/udp/237.0.13.45:10000
-#EXTINF:-1 group-title="📁 MaxTV",Ru TV
+#EXTINF:-1 group-title="🇷🇺 Россия",Ru TV
 http://91.198.104.13:8001/udp/237.0.10.47:10000
-#EXTINF:-1 group-title="📁 MaxTV",ТНТ Music
+#EXTINF:-1 group-title="🇷🇺 Россия",ТНТ Music
 http://91.198.104.13:8001/udp/237.0.13.16:10000
 
 #EXTINF:-1 tvg-logo="" group-title="💎 𝕄𝕒𝕩𝕋𝕍 𝕌𝕝𝕥𝕣𝕒 💎",IPTVPLAY Десятое Королевство HD 
@@ -482,444 +478,132 @@ http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="💎 𝕄𝕒𝕩𝕋𝕍 𝕌𝕝𝕥𝕣𝕒 💎",РуКино HD
 http://hls127.freeott.top:8080/PG_Rukino_HD/manifest.m3u8
 
-#EXTINF:0 group-title="Кино"  tvg-id="cineman" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan.png",CineMan
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/682/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman_premium.png",CineMan Premium
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1664/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManTOP.png",CineMan Top
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManAction.png",CineMan Action
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-marvel" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMARVEL.png",CineMan Marvel
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/688/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-melodrama" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMelodrama.png",CineMan Melodrama
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/690/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManComedy.png",CineMan Комедия
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/691/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-thriller" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManThiller.png",CineMan Thriller
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-katastrofy" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-katastrofy.png",CineMan Катастрофы
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-uzhasy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png",CineMan Ужасы
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/692/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-vhs" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManVHS.png",CineMan VHS
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-skorpom" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-skorpom.png",CineMan Скорая помощь
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-miniseries" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMiniSeries.png",CineMan MiniSeries
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1662/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-musw" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-MW.png",CineMan Ментовские Войны
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1657/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-gluhar" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-gluhar.png",CineMan Глухарь + Карпов
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1672/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-pes" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan-Pes.png",CineMan ПёС
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1658/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-lesnik" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-Forester.png",CineMan Лесник
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1659/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-aircrash" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-aircrash.png",CineMan Air Crash
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/419/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-sssr-fhd" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-sssr-fhd.png",CineMan CCCP FHD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-dub-ssr" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-dub-ssr.png",CineMan Дубляж СССР
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/645/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="amedia-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-premium-ru.png",Amedia Premium
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/624/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="amedia-hit" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-hit-ru.png",Amedia Hit
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/625/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="amedia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_1.png",А1 HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/640/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="amedia2" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_2.png",A2 HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/641/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinopremiera-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_premyera.png",КИНОПРЕМЬЕРА HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/613/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinoxit" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_hit.png",КИНОХИТ
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/608/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinomiks" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_miks.png",КИНОМИКС
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/609/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinosemiya" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_semja.png",КИНОСЕМЬЯ
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/610/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinosvidanie" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_svidanie.png",КИНОСВИДАНИЕ
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/614/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="muzhskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_muzhskoe_kino.png",МУЖСКОЕ КИНО
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/633/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinokomedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_medija.png",Кинокомедия
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/654/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinouzhas" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinouzhas-ru.png",Киноужас HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/642/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="vip-premiere" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png",Viju+ Premiere HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/605/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",Viju TV1000 Action
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/623/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="vip-megahit" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png",Viju+ Megahit HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/606/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="vip-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png",Viju+ Comedy HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/607/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="tv1000-cee" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv1000-cee.png",Viasat Kino HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/618/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="tv1000" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_east.png",Viju TV1000
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/622/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="vip-serial" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-serial.png",Viju+ Serial HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/636/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinopokaz.png",Кинопоказ HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/611/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="premialnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/premialnoe-ru.png",Премиальное HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/612/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="khit" tvg-logo="http://cdn.server-iptv.live/logo/tv/hit-ru.png",Хит HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/665/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kino-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino_tv_ru.png",КИНО ТВ
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/600/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/ostrosyuzhetnoye-ru.png",Остросюжетное HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/604/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="blokbaster" tvg-logo="http://cdn.server-iptv.live/logo/tv/blokbaster-ru.png",Блокбастер HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/668/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kino-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino-24.png",Kino 24
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1671/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinoliving" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinoliving.png",KinoLiving
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1663/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kamedi" tvg-logo="http://cdn.server-iptv.live/logo/tv/kamedi.png",Камеди HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/676/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="komedijnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/komediynoe-ru.png",Комедийное HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/617/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="russkaya-komedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png",Комедия
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/671/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="shokiruyushchee-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png",Шокирующее HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1661/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="trashtv" tvg-logo="http://cdn.server-iptv.live/logo/tv/trashtv.png",Trash HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/674/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="nst" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastoyashee_strashnoe_tv_ru.png",НСТ
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/660/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="hollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-hd-us-ru.png",Hollywood HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/669/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="hollywood" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-ru.png",Hollywood
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/634/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="okko-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/okko-tv.png",Okko TV
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/656/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="mir-seriala" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_seriala_ru.png",Мир Сериала
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/627/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinoseria" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_seriya.png",Киносерия
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/650/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="domkino-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru_premium.png",Дом Кино Премиум HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/603/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="domkino" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru.png",Дом Кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/635/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="nashe-novoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_nashe_novoe_kino.png",Наше новое кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/620/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="nashehd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nashe-ru.png",Наше HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/616/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="nash-kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/nash-kinopokaz.png",Наш Кинопоказ HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/666/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="tv1000-russkoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_russkoe_kino.png",Viju TV1000 Русское
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/621/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-rukino" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManRuKino.png",CineMan РуКино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/687/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="rodnoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_rodnoe_kino.png",Родное кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/678/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="pobeda" tvg-logo="http://cdn.server-iptv.live/logo/tv/pobeda-ru.png",Победа
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/632/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="arsenaltv" tvg-logo="http://cdn.server-iptv.live/logo/tv/arsenal-ru.png",Арсенал HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/664/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="patriot" tvg-logo="http://cdn.server-iptv.live/logo/tv/patriot.png",Патриот
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/652/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="russky-roman" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_roman_ru.png",Русский роман
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/629/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="pro-lyubov" tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png",Про Любовь HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/667/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="romantichnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/romantichnoe-ru.png",Романтичное HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/1660/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="dushevnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dushevnoe-hd.png",Душевное кино HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/697/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="russky-bestseller" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_bestseller_ru.png",Русский бестселлер
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/630/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="russky-detektiv" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_detektiv_ru.png",Русский детектив
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/679/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="russky-illuzion" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_illusion_ru.png",Русский Иллюзион
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/631/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="illuzion-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/illusion_plus.png",Иллюзион+
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/638/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="feniks-plus-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/fenix_plus_kino.png",Феникс+ Кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/680/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="mosfilm" tvg-logo="http://cdn.server-iptv.live/logo/tv/mosfilm.png",Мосфильм. Золотая коллекция
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/659/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="lubimoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/lubimoe_kino.png",Любимое кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/619/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="retro-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/retro_tv_ru.png",Ретро
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/658/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="vhs-ka" tvg-logo="http://cdn.server-iptv.live/logo/tv/vhs-ka.png",VHS-ка HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/615/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="sony-scifi" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony_scifi_ru.png",Sony Sci-Fi
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/648/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="dorama" tvg-logo="http://cdn.server-iptv.live/logo/tv/dorama-uk.png",Дорама
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/675/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="fox" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox_global.png",FX HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/626/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="foxlife" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-life-us.png",FX Life
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/646/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="shot-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shot-tv-ru.png",Shot TV
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/657/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="bolt-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/bolt.png",Bolt
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/637/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kinoman" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinoman.png",Киноман
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/653/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cinema-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekarta_ru_cinema.png",Cinema
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/628/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="tvxxi" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv21_lv.png",TV XXI
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/601/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="evrokino" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurokino.png",Еврокино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/602/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="cineman-svaty" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManSvaty.png",CineMan Сваты
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/684/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="star-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-cinema-ru.png",Star Cinema Россия HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/643/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="star-family" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-family-ua.png",Star Family Россия HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/673/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="kineko" tvg-logo="http://cdn.server-iptv.live/logo/tv/kineko.png",Кинеко
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/639/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="sapfir" tvg-logo="http://cdn.server-iptv.live/logo/tv/sapfir.png",Сапфир
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/647/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="sony-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony.png",.red
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/695/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="sony-turbo" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony-turbo.png",.black
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/649/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="bollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/bollywood_ru_hd.png",Bollywood HD
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/644/video.m3u8?token=Ceba8e4412
-#EXTINF:0 group-title="Кино"  tvg-id="indiyskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_indisjkoe_kino.png",Индийское кино
-#EXTGRP:​🎬 𝐌𝐚𝐱𝐓𝐕 𝐊𝐢𝐧𝐨 🍿
-http://ott.server-iptv.live/651/video.m3u8?token=Ceba8e4412
 
 
 
-#EXTINF:-1 group-title="🍿 FTA", Sovershenno_Sekretno
+
+#EXTINF:-1 group-title="🎬 Кинозал", Sovershenno_Sekretno
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", RBK
+#EXTINF:-1 group-title="🎬 Кинозал", RBK
 http://hls127.freeott.top:8080/RBK/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Nostalgiya
+#EXTINF:-1 group-title="🎬 Кинозал", Nostalgiya
 http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Istoriya
+#EXTINF:-1 group-title="🎬 Кинозал", Istoriya
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Football
+#EXTINF:-1 group-title="🎬 Кинозал", Football
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Da_Vinci_Learning
+#EXTINF:-1 group-title="🎬 Кинозал", Da_Vinci_Learning
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Amedia_2_HD
+#EXTINF:-1 group-title="🎬 Кинозал", Amedia_2_HD
 http://hls127.freeott.top:8080/Amedia_2_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Amedia_1
+#EXTINF:-1 group-title="🎬 Кинозал", Amedia_1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", box_anime_hd
+#EXTINF:-1 group-title="🎬 Кинозал", box_anime_hd
 http://hls127.freeott.top:8080/box_anime_hd/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", box_anime_hd
+#EXTINF:-1 group-title="🎬 Кинозал", box_anime_hd
 http://hls127.freeott.top:8080/box_anime_hd/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", box_game_hd
+#EXTINF:-1 group-title="🎬 Кинозал", box_game_hd
 http://hls127.freeott.top:8080/box_game_hd/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BOX Anima HD
+#EXTINF:-1 group-title="🎬 Кинозал", BOX Anima HD
 http://hls127.freeott.top:8080/box_game_hd/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BOX Travel HD
+#EXTINF:-1 group-title="🎬 Кинозал", BOX Travel HD
 http://hls127.freeott.top:8080/box_travel_hd/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Kinopokaz HD
+#EXTINF:-1 group-title="🎬 Кинозал", Kinopokaz HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Nashe_HD
+#EXTINF:-1 group-title="🎬 Кинозал", Nashe_HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BCUKinoratingHD
+#EXTINF:-1 group-title="🎬 Кинозал", BCUKinoratingHD
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BCUStarsHD
+#EXTINF:-1 group-title="🎬 Кинозал", BCUStarsHD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Premium_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_Premium_HD
 http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Premiere_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_Premiere_HD
 http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Paradise_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_Paradise_HD
 http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Thriller_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_Thriller_HD
 http://hls127.freeott.top:8080/PG_Thriller_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Paradox_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_Paradox_HD
 http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_USSR_HD
+#EXTINF:-1 group-title="🎬 Кинозал", PG_USSR_HD
 http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA",PG_VHS_HD 
+#EXTINF:-1 group-title="🎬 Кинозал",PG_VHS_HD 
 http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Kinoseriya_HD
+#EXTINF:-1 group-title="🎬 Кинозал", Kinoseriya_HD
 http://hls127.freeott.top:8080/Kinoseriya_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Наше новое кино
+#EXTINF:-1 group-title="🎬 Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", PG_Insomnia_HD
+#EXTINF:-1 group-title="🎬 Кинозал PG_Insomnia_HD
 http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", История
+#EXTINF:-1 group-title="🎬 История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Дикий
+#EXTINF:-1 group-title="🎬" Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Наука 2.0
+#EXTINF:-1 group-title="🎬", Наука 2.0
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", RTG TV
+#EXTINF:-1 group-title="🎬", RTG TV
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Amedia 1
+#EXTINF:-1 group-title="🎬", Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Ужасы
+#EXTINF:-1 group-title="🎬", Clarity4K Ужасы
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Anime
+#EXTINF:-1 group-title="🎬", Clarity4K Anime
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Asia
+#EXTINF:-1 group-title="🎬", Clarity4K Asia
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4k Концерт
+#EXTINF:-1 group-title="🎬", Clarity4k Концерт
 http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4k Единоборства
+#EXTINF:-1 group-title="🎬", Clarity4k Единоборства
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Фантастика
+#EXTINF:-1 group-title="🎬", Clarity4K Фантастика
 http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Gamefilm
+#EXTINF:-1 group-title="🎬", Clarity4K Gamefilm
 http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Космомир
+#EXTINF:-1 group-title="🎬", Clarity4K Космомир
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Clarity4K Netflix
+#EXTINF:-1 group-title="🎬", Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Gags Network
+#EXTINF:-1 group-title="🎬", Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", НСТ
+#EXTINF:-1 group-title="🎬", НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Кинопоказ HD
+#EXTINF:-1 group-title="🎬", Кинопоказ HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Ключ
+#EXTINF:-1 group-title="🎬", Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Кухня ТВ
+#EXTINF:-1 group-title="🎬", Кухня ТВ
 http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Maydan
+#EXTINF:-1 group-title="🎬", Maydan
 http://hls127.freeott.top:8080/Maydan/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="🎬", Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", MyTV
+#EXTINF:-1 group-title="🎬", MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Наше HD
+#EXTINF:-1 group-title="🎬", Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Ностальгия
+#EXTINF:-1 group-title="🎬", Ностальгия
 http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Про любовь
+#EXTINF:-1 group-title="🎬", Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", РБК
+#EXTINF:-1 group-title="🎬", РБК
 http://hls127.freeott.top:8080/RBK/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Союз
+#EXTINF:-1 group-title="🎬", Союз
 http://hls127.freeott.top:8080/Souz/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Совершенно секретно
+#EXTINF:-1 group-title="🎬", Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Спас
+#EXTINF:-1 group-title="🎬", Спас
 http://hls127.freeott.top:8080/Spas/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Театр
-http://hls127.freeott.top:8080/Teatr/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", СТС Kids
+#EXTINF:-1 group-title="🎬", СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Da Vinci
+#EXTINF:-1 group-title="🎬", Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Бобёр
+#EXTINF:-1 group-title="🎬", Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Bolt
+#EXTINF:-1 group-title="🎬", Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", BRIDGE TV
-http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Футбол
-http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 group-title="🍿 FTA", Матч ТВ
-http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
+
 
 
 
@@ -966,6 +650,13 @@ http://ott.server-iptv.live/1404/video.m3u8?token=Ceba8e4412
 #EXTINF:0 group-title="Спорт"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",МАТЧ ПРЕМЬЕР
 #EXTGRP:⚽️ Спортивные
 http://ott.server-iptv.live/208/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="⚽️", Футбол
+http://hls127.freeott.top:8080/Football/mono.m3u8
+#EXTINF:-1 group-title="⚽️", Матч ТВ
+http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
+
+
 #EXTINF:0 group-title="Спорт"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",МАТЧ ПРЕМЬЕР SD
 #EXTGRP:⚽️ Спортивные
 http://ott.server-iptv.live/0208/video.m3u8?token=Ceba8e4412
@@ -1105,6 +796,8 @@ https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",Ля Минор
 https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 BRIDGE TV
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/e315edeb-2758-4831-8e33-f4c4e104626a.png" group-title="🌴 Познавательные",Nat Geo Wild HD
 https://stream2.cinerama.uz/1042/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/3581815e-23b6-4e2b-9d15-141be8b5e5f2.png" group-title="🌴 Познавательные",National Geographic
