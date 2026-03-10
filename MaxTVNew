@@ -565,7 +565,7 @@ http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="🎬 Кино", Кинопоказ HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="🎬", Ключ
+#EXTINF:-1 group-title="🇷🇺 Россия", Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 Россия", Кухня ТВ
 http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
@@ -590,7 +590,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 http://hls127.freeott.top:8080/Spas/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 Россия", СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="🎬", Da Vinci
+#EXTINF:-1 group-title="🎬 Кино", Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺 Россия", Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
@@ -790,7 +790,7 @@ https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",Ля Минор
 https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 BRIDGE TV",
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",BRIDGE TV
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/e315edeb-2758-4831-8e33-f4c4e104626a.png" group-title="🌴 Познавательные",Nat Geo Wild HD
 https://stream2.cinerama.uz/1042/tracks-v2a1/mono.m3u8
