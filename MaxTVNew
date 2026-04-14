@@ -1,42 +1,4 @@
-
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/7264f8a9-b852-461e-8791-3dd998e5a9e5.png" group-title="🇷🇺 Россия",Первый канал
-https://stream1.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/23dfcfff-b1fd-4f57-bb0b-39ffa79d45b5.png" group-title="🇷🇺 Россия",Россия 1
-https://stream1.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/19eb6d5f-97b9-421e-8d4a-763c00715604.png" group-title="🇷🇺 Россия",Россия 24
-https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/ac492313-1888-47ce-97c6-8095a3e2781e.png" group-title="🇷🇺 Россия",Euronews
-https://stream1.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/6f4db2ed-fd01-4e38-b633-dfa20befcfa7.jpeg" group-title="🇷🇺 Россия",ТВЦ
-https://stream1.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/a0e101d7-b517-41dd-92cb-2221ebf50612.png" group-title="🇷🇺 Россия",Мир 24
-https://stream1.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/1d294da3-5f54-4e99-bb45-1308f13da3c1.png" group-title="🇷🇺 Россия",Мир +7
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/1d294da3-5f54-4e99-bb45-1308f13da3c1.png" group-title="🇷🇺 Россия",Мир +3
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/1d294da3-5f54-4e99-bb45-1308f13da3c1.png" group-title="🇷🇺 Россия",Мир +2
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/1d294da3-5f54-4e99-bb45-1308f13da3c1.png" group-title="🇷🇺 Россия",Мир
-https://stream1.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-.mp4
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/zvezda.jpg" group-title="🇷🇺 Россия",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/547e0fb2-dc3e-4e8b-9f50-696e5a8a38ca.png" group-title="🇷🇺 Россия",РБК
-https://stream1.cinerama.uz/1438/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/d53465e1-9972-43fe-ad82-e3630d1fd30b.png" group-title="🇷🇺 Россия",Qazaqstan
-https://stream1.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/7fc88f01-8941-4053-98f2-8a209848c61d.jpeg" group-title="🇷🇺 Россия",24KZ
-https://stream1.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/8b828a19-cfd1-4022-9e05-6ec3f3902cbd.png" group-title="🇷🇺 Россия",НТВ
-https://stream1.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/7fb948c8-222c-46e0-bd73-0db6b36d3c45.png" group-title="🇷🇺 Россия",ТВ-3
-https://stream1.cinerama.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/e41544a7-6d40-442e-a517-e6ba42eb7e87.png" group-title="🇷🇺 Россия",Домашний International
-https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/pro100.jpg" group-title="🇷🇺 Россия",Pro100 TV
-https://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5c110ff3-9c65-4c15-bda7-e21d6ab5c815.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/a942987b-1ebf-4191-9945-cc72ed03b0aa.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинохит
