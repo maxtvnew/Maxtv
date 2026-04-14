@@ -1,48 +1,4 @@
 
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5c110ff3-9c65-4c15-bda7-e21d6ab5c815.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинопремьера HD
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/a942987b-1ebf-4191-9945-cc72ed03b0aa.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинохит
-https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/594fe4b7-3ce2-4485-9c2d-ff0df95e75ba.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Киносемья
-https://stream2.cinerama.uz/1234/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/b445471e-7e40-4c88-8904-67108f07c5c7.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Мужское кино
-https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/6047d8f1-1f30-48f3-9aac-26a25fd2599e.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/283fa812-87b2-4e42-9e2f-0907dc041a64.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Родное кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f310f2fb-a764-4bb4-a2e1-b10744ef9919.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Наше новое кино
-https://stream8.cinerama.uz/1051/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/32daf72b-4cce-4eb7-adc9-e44d7b395e57.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Индийское кино
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/0a7c48cd-6663-4f9d-8423-16d029e35854.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/f45cf32c-a27c-4dd6-81b2-a46fb59c8771.png" group-title="​🎬  𝐊𝐢𝐧𝐨",Киносерия
-https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/845c3d66-3570-4cb9-b790-b5c6a0ae4894.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Киносведание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/4c012a02-4a62-4554-98ac-d3610cfd05fe.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",viju+ TV1000
-https://stream2.cinerama.uz/1058/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/987d9c4a-2e6c-4546-a37e-c50d24aa17d8.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",viju+ TV1000 Action
-https://stream8.cinerama.uz/1225/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/2a4a6e8e-1ec9-4646-975a-dbdeb0583508.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",viju+ TV1000 Русское
-https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/7ac5563d-c623-4620-89b4-3bafa46b8ec4.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/378ea87e-e9e2-41cc-b181-17eb9d636518.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Hollywood
-https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f42a0d33-6a1d-41f5-9f1f-5a725fc1b9c0.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Кинопоказ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f42a0d33-6a1d-41f5-9f1f-5a725fc1b9c0.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Наш Кинопоказ
-http://178.217.72.66:8080/nashkinopokazhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/c87ca0b0-12f4-44a6-9c78-86eda201dbc5.jpeg" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Cinema
-https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/2946c715-b99f-4fcc-b405-74663b663624.jpeg" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Дорама
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/835def0f-e2bc-442f-93b9-b44d9f079e9b.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Дом кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/828d4562-bf08-4874-9c0f-52e86676d1e9.png" group-title="​🎬  𝐊𝐢𝐧𝐨 ",Ретро
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Киноужас
 http://6zgcfzun.akciatv.ru/iptv/PSAQKXW7LSGR9C/726/index.m3u8
