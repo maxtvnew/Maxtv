@@ -8046,4 +8046,26 @@ http://kinowalk.hopto.org/video_channel_live
 http://kinowalk.hopto.org/aisman_live
 
 
-
+#EXTM3U
+#EXTINF:-1,ТВ3 HD
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=HY8dJGtbcjGPFwltwDCVuQ&e=2074853892&scheme=https
+#EXTINF:-1,2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=sWuG-c-YB5H3EpGSdxILnA&e=2074853892&scheme=https
+#EXTINF:-1,Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ZodoEOGvxMmhsNQPoa47-Q&e=2074853893&scheme=https
+#EXTINF:-1,Большая азия
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=olTn2zRdQBnDh0Z8nCKmlg&e=2074853894&scheme=https
+#EXTINF:-1,Нано ТВ
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=uXUybr0FZI401433hIIqOA&e=2074853895&scheme=https
+#EXTINF:-1,Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=f6-u10i-MkYWLTKghihiXQ&e=2074853895&scheme=https
+#EXTINF:-1,Загородный International
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=4pHHufcRmXB9rR0hS9ADSQ&e=2074853896&scheme=https
+#EXTINF:-1,Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=qaF2M1lw3cmtXm54RkT62Q&e=2074853896&scheme=https
+#EXTINF:-1,Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=rihsjuy5S0DrgEGyOxfXKQ&e=2074853897&scheme=https
+#EXTINF:-1,Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=aRipwmdu9r_X8ASSHso65Q&e=2074853897&scheme=https
+#EXTINF:-1,Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=83s6CXQbu029G-EEvRSDkQ&e=2074853897&scheme=https
