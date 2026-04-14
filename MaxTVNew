@@ -3948,16 +3948,9 @@ http://ott.server-iptv.live/240/video.m3u8?token=Ceba8e4412
 #EXTINF:0 group-title="Спорт"  tvg-id="belarus5" tvg-logo="http://cdn.server-iptv.live/logo/tv/belorys5.jpg",Беларусь 5 BY
 #EXTGRP:⚽️ Спортивные
 http://ott.server-iptv.live/219/video.m3u8?token=Ceba8e4412
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/8bd6a701-305f-4760-9586-3aa8d7334e18.png" group-title="🎧 Музыка",TRT Music
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/725b7125-c247-4ec7-a2e0-7cd4779cc59c.png" group-title="🎧 Музыка",Ru-TV
-https://stream2.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/899888a2-24a2-4e37-a51d-1c94542ea0b0.png" group-title="🎧 Музыка",Муз-ТВ
 https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/fac02a6a-8752-47d9-bf0b-951e785f7b16.png" group-title="🎧 Музыка",Музыка первого
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",Ля Минор
-https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/10/16/14ab379c-1305-4bb0-9700-8643453fac54.png" group-title="🎧 Музыка",BRIDGE TV
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/e315edeb-2758-4831-8e33-f4c4e104626a.png" group-title="🌴 Познавательные",Nat Geo Wild HD
