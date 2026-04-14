@@ -4204,18 +4204,6 @@ https://iptv.prosto.tv/id879/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id8/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="10" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00010.png" tvg-name="Прямой" group-title="🇷🇺 Россия",Прямой HD
 https://iptv.prosto.tv/id10/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="28" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00028.png?1694782406" tvg-name="ТК Киев" group-title="Украина",КИЇВ24 HD
-https://iptv.prosto.tv/id28/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="29" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00029.png?1681297582" tvg-name="UA Киев" group-title="Украина",Суспільне Київ HD
-https://iptv.prosto.tv/id29/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="169" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00169.png" tvg-name="Espresso HD" group-title="Украина",Espresso TV HD
-https://iptv.prosto.tv/id169/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="22" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00022.png?1755005110" tvg-name="УНІАН" group-title="Украина",УНІАН Серіал HD
-https://iptv.prosto.tv/id22/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00917.png?1739524233" group-title="Украина",Про Київ
-https://iptv.prosto.tv/id917/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="24" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00024.png" tvg-name="Euronews" group-title="📡 Mix-TV 01",Euronews
-https://iptv.prosto.tv/id24/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00354.png" group-title="📡 Mix-TV 01",Суспільне Івано-Франківськ HD
 https://iptv.prosto.tv/id354/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00916.png?1729862320" group-title="📡 Mix-TV 01",Music Box Classic
