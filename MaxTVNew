@@ -3911,475 +3911,475 @@ https://iptv.prosto.tv/id879/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id8/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="10" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00010.png" tvg-name="Прямой" group-title="🇷🇺 Россия",Прямой HD
 https://iptv.prosto.tv/id10/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00354.png" group-title="📡 Mix-TV 01",Суспільне Івано-Франківськ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00354.png" group-title="📡 Max-TV 01",Суспільне Івано-Франківськ HD
 https://iptv.prosto.tv/id354/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00916.png?1729862320" group-title="📡 Mix-TV 01",Music Box Classic
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00916.png?1729862320" group-title="📡 Max-TV 01",Music Box Classic
 https://iptv.prosto.tv/id916/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="4" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00004.png" tvg-name="UA Перший" group-title="📡 Mix-TV 01",UA:Перший
+#EXTINF:-1 tvg-id="4" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00004.png" tvg-name="UA Перший" group-title="📡 Max-TV 01",UA:Перший
 https://iptv.prosto.tv/id4/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="20" tvg-logo="https://img.prosto.tv/storage/channel/logo/espressoTV.png" tvg-name="Еспресо TV" group-title="📡 Mix-TV 01",Espresso TV
+#EXTINF:-1 tvg-id="20" tvg-logo="https://img.prosto.tv/storage/channel/logo/espressoTV.png" tvg-name="Еспресо TV" group-title="📡 Max-TV 01",Espresso TV
 https://iptv.prosto.tv/id20/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00375.png" group-title="📡 Mix-TV 01",English Club
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00375.png" group-title="📡 Max-TV 01",English Club
 https://iptv.prosto.tv/id375/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00502.png" group-title="📡 Mix-TV 01",Utravel HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00502.png" group-title="📡 Max-TV 01",Utravel HD
 https://iptv.prosto.tv/id502/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="70" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00070.png" tvg-name="Сварожичи" group-title="📡 Mix-TV 01",Сварожичи
+#EXTINF:-1 tvg-id="70" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00070.png" tvg-name="Сварожичи" group-title="📡 Max-TV 01",Сварожичи
 https://iptv.prosto.tv/id70/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="46" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00046.png" tvg-name="8 Канал" group-title="📡 Mix-TV 01",8 Канал HD
+#EXTINF:-1 tvg-id="46" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00046.png" tvg-name="8 Канал" group-title="📡 Max-TV 01",8 Канал HD
 https://iptv.prosto.tv/id46/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="285" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00285.png" tvg-name="БелСат" group-title="📡 Mix-TV 01",БелСат
+#EXTINF:-1 tvg-id="285" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00285.png" tvg-name="БелСат" group-title="📡 Max-TV 01",БелСат
 https://iptv.prosto.tv/id285/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00518.jpg" group-title="📡 Mix-TV 01",CNN
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00518.jpg" group-title="📡 Max-TV 01",CNN
 https://iptv.prosto.tv/id518/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="35" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00035.png" tvg-name="Перший Захiдний" group-title="📡 Mix-TV 01",Перший Захiдний HD
+#EXTINF:-1 tvg-id="35" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00035.png" tvg-name="Перший Захiдний" group-title="📡 Max-TV 01",Перший Захiдний HD
 https://iptv.prosto.tv/id35/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00880.png?1725959266" group-title="📡 Mix-TV 01",Канал D1
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00880.png?1725959266" group-title="📡 Max-TV 01",Канал D1
 https://iptv.prosto.tv/id880/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="352" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00352.png" tvg-name="UA Житомир" group-title="📡 Mix-TV 01",Суспільне Житомир HD
+#EXTINF:-1 tvg-id="352" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00352.png" tvg-name="UA Житомир" group-title="📡 Max-TV 01",Суспільне Житомир HD
 https://iptv.prosto.tv/id352/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="170" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00170.png" tvg-name="Вита" group-title="📡 Mix-TV 01",Вита HD
+#EXTINF:-1 tvg-id="170" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00170.png" tvg-name="Вита" group-title="📡 Max-TV 01",Вита HD
 https://iptv.prosto.tv/id170/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="135" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00135.png" tvg-name="Днiпро" group-title="📡 Mix-TV 01",Суспільне ДНІПРО HD
+#EXTINF:-1 tvg-id="135" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00135.png" tvg-name="Днiпро" group-title="📡 Max-TV 01",Суспільне ДНІПРО HD
 https://iptv.prosto.tv/id135/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="137" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00137.png" tvg-name="Запорожье" group-title="📡 Mix-TV 01",Суспільне Запорожье HD
+#EXTINF:-1 tvg-id="137" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00137.png" tvg-name="Запорожье" group-title="📡 Max-TV 01",Суспільне Запорожье HD
 https://iptv.prosto.tv/id137/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="171" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00171.png" tvg-name="UA Винница" group-title="📡 Mix-TV 01",Суспільне Винница HD
+#EXTINF:-1 tvg-id="171" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00171.png" tvg-name="UA Винница" group-title="📡 Max-TV 01",Суспільне Винница HD
 https://iptv.prosto.tv/id171/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="163" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00163.png" tvg-name="UA Крым" group-title="📡 Mix-TV 01",Суспільне Крим HD
+#EXTINF:-1 tvg-id="163" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00163.png" tvg-name="UA Крым" group-title="📡 Max-TV 01",Суспільне Крим HD
 https://iptv.prosto.tv/id163/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00036.png" group-title="📡 Mix-TV 01",Суспільне Ужгород HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00036.png" group-title="📡 Max-TV 01",Суспільне Ужгород HD
 https://iptv.prosto.tv/id36/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="211" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00211.png" tvg-name="UA Донбасс" group-title="📡 Mix-TV 01",Суспільне Донбас HD
+#EXTINF:-1 tvg-id="211" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00211.png" tvg-name="UA Донбасс" group-title="📡 Max-TV 01",Суспільне Донбас HD
 https://iptv.prosto.tv/id211/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00300.png" group-title="📡 Mix-TV 01",Правда ТУТ Львов HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00300.png" group-title="📡 Max-TV 01",Правда ТУТ Львов HD
 https://iptv.prosto.tv/id300/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="134" tvg-logo="https://img.prosto.tv/storage/channel/logo/rudana.png" tvg-name="Рудана" group-title="📡 Mix-TV 01",Рудана
+#EXTINF:-1 tvg-id="134" tvg-logo="https://img.prosto.tv/storage/channel/logo/rudana.png" tvg-name="Рудана" group-title="📡 Max-TV 01",Рудана
 https://iptv.prosto.tv/id134/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="257" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00257.png" tvg-name="Навигатор ТВ" group-title="📡 Mix-TV 01",Навигатор ТВ HD
+#EXTINF:-1 tvg-id="257" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00257.png" tvg-name="Навигатор ТВ" group-title="📡 Max-TV 01",Навигатор ТВ HD
 https://iptv.prosto.tv/id257/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="148" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00148.png" tvg-name="Натали" group-title="📡 Mix-TV 01",Натали
+#EXTINF:-1 tvg-id="148" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00148.png" tvg-name="Натали" group-title="📡 Max-TV 01",Натали
 https://iptv.prosto.tv/id148/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="121" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00121.png" tvg-name="Настоящее время" group-title="📡 Mix-TV 01",Настоящее время HD
+#EXTINF:-1 tvg-id="121" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00121.png" tvg-name="Настоящее время" group-title="📡 Max-TV 01",Настоящее время HD
 https://iptv.prosto.tv/id121/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="34" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00034.png" tvg-name="ATR" group-title="📡 Mix-TV 01",ATR
+#EXTINF:-1 tvg-id="34" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00034.png" tvg-name="ATR" group-title="📡 Max-TV 01",ATR
 https://iptv.prosto.tv/id34/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="188" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00188.png" tvg-name="France 24" group-title="📡 Mix-TV 01",France 24
+#EXTINF:-1 tvg-id="188" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00188.png" tvg-name="France 24" group-title="📡 Max-TV 01",France 24
 https://iptv.prosto.tv/id188/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="110" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00110.png" tvg-name="ENGLISH CLUB TV" group-title="📡 Mix-TV 01",ENGLISH CLUB TV HD
+#EXTINF:-1 tvg-id="110" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00110.png" tvg-name="ENGLISH CLUB TV" group-title="📡 Max-TV 01",ENGLISH CLUB TV HD
 https://iptv.prosto.tv/id110/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="355" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00355.png" tvg-name="UA Николаев" group-title="📡 Mix-TV 01",Суспільне Николаев HD
+#EXTINF:-1 tvg-id="355" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00355.png" tvg-name="UA Николаев" group-title="📡 Max-TV 01",Суспільне Николаев HD
 https://iptv.prosto.tv/id355/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="356" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00356.png" tvg-name="UA Львов" group-title="📡 Mix-TV 01",Суспільне  Львов HD
+#EXTINF:-1 tvg-id="356" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00356.png" tvg-name="UA Львов" group-title="📡 Max-TV 01",Суспільне  Львов HD
 https://iptv.prosto.tv/id356/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="357" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00357.png" tvg-name="UA ПОЛТАВА" group-title="📡 Mix-TV 01",Суспільне ПОЛТАВА HD
+#EXTINF:-1 tvg-id="357" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00357.png" tvg-name="UA ПОЛТАВА" group-title="📡 Max-TV 01",Суспільне ПОЛТАВА HD
 https://iptv.prosto.tv/id357/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00346.png?1753117280" group-title="📡 Mix-TV 01",Апостроф HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00346.png?1753117280" group-title="📡 Max-TV 01",Апостроф HD
 https://iptv.prosto.tv/id346/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00486.png" group-title="📡 Mix-TV 01",Equalympic
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00486.png" group-title="📡 Max-TV 01",Equalympic
 https://iptv.prosto.tv/id486/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="219" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00219.png" tvg-name="OBOZ TV" group-title="📡 Mix-TV 01",OBOZREVATEL TV HD
+#EXTINF:-1 tvg-id="219" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00219.png" tvg-name="OBOZ TV" group-title="📡 Max-TV 01",OBOZREVATEL TV HD
 https://iptv.prosto.tv/id219/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00335.png" group-title="📡 Mix-TV 01",Дитинець
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00335.png" group-title="📡 Max-TV 01",Дитинець
 https://iptv.prosto.tv/id335/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="358" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00358.png" tvg-name="UA ОДЕСCА" group-title="📡 Mix-TV 01",Суспільне ОДЕСCА HD
+#EXTINF:-1 tvg-id="358" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00358.png" tvg-name="UA ОДЕСCА" group-title="📡 Max-TV 01",Суспільне ОДЕСCА HD
 https://iptv.prosto.tv/id358/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="338" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00338.png" tvg-name="UA БУКОВИНА" group-title="📡 Mix-TV 01",Суспільне Чернівці HD
+#EXTINF:-1 tvg-id="338" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00338.png" tvg-name="UA БУКОВИНА" group-title="📡 Max-TV 01",Суспільне Чернівці HD
 https://iptv.prosto.tv/id338/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="351" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00351.png" tvg-name="UA ВОЛЫНЬ" group-title="📡 Mix-TV 01",Суспільне Луцьк HD
+#EXTINF:-1 tvg-id="351" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00351.png" tvg-name="UA ВОЛЫНЬ" group-title="📡 Max-TV 01",Суспільне Луцьк HD
 https://iptv.prosto.tv/id351/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="359" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00359.png" tvg-name="UA Тернополь" group-title="📡 Mix-TV 01",Суспільне Тернополь HD
+#EXTINF:-1 tvg-id="359" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00359.png" tvg-name="UA Тернополь" group-title="📡 Max-TV 01",Суспільне Тернополь HD
 https://iptv.prosto.tv/id359/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="360" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00360.png" tvg-name="UA РІВНЕ" group-title="📡 Mix-TV 01",Суспільне РІВНЕ HD
+#EXTINF:-1 tvg-id="360" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00360.png" tvg-name="UA РІВНЕ" group-title="📡 Max-TV 01",Суспільне РІВНЕ HD
 https://iptv.prosto.tv/id360/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="361" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00361.png" tvg-name="UA СУМИ" group-title="📡 Mix-TV 01",Суспільне СУМИ HD
+#EXTINF:-1 tvg-id="361" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00361.png" tvg-name="UA СУМИ" group-title="📡 Max-TV 01",Суспільне СУМИ HD
 https://iptv.prosto.tv/id361/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00362.png" group-title="📡 Mix-TV 01",Суспільне Хмельницький HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00362.png" group-title="📡 Max-TV 01",Суспільне Хмельницький HD
 https://iptv.prosto.tv/id362/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="363" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00363.png" tvg-name="UA ХАРКІВ" group-title="📡 Mix-TV 01",Суспільне ХАРКІВ HD
+#EXTINF:-1 tvg-id="363" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00363.png" tvg-name="UA ХАРКІВ" group-title="📡 Max-TV 01",Суспільне ХАРКІВ HD
 https://iptv.prosto.tv/id363/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00364.png" group-title="📡 Mix-TV 01",Суспільне ХЕРСОН HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00364.png" group-title="📡 Max-TV 01",Суспільне ХЕРСОН HD
 https://iptv.prosto.tv/id364/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="365" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00365.png" tvg-name="UA ЧЕРНІГОВ" group-title="📡 Mix-TV 01",Суспільне ЧЕРНІГОВ HD
+#EXTINF:-1 tvg-id="365" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00365.png" tvg-name="UA ЧЕРНІГОВ" group-title="📡 Max-TV 01",Суспільне ЧЕРНІГОВ HD
 https://iptv.prosto.tv/id365/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="366" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00366.png" tvg-name="UA ЧЕРКАСЫ" group-title="📡 Mix-TV 01",Суспільне ЧЕРКАСЫ HD
+#EXTINF:-1 tvg-id="366" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00366.png" tvg-name="UA ЧЕРКАСЫ" group-title="📡 Max-TV 01",Суспільне ЧЕРКАСЫ HD
 https://iptv.prosto.tv/id366/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00212.png" group-title="📡 Mix-TV 01",Sea TV HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00212.png" group-title="📡 Max-TV 01",Sea TV HD
 https://iptv.prosto.tv/id212/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00373.png" group-title="📡 Mix-TV 01",Галичина
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00373.png" group-title="📡 Max-TV 01",Галичина
 https://iptv.prosto.tv/id373/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00376.png" group-title="📡 Mix-TV 01",Исландия HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00376.png" group-title="📡 Max-TV 01",Исландия HD
 https://iptv.prosto.tv/id376/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00487.png" group-title="📡 Mix-TV 01",Миргород
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00487.png" group-title="📡 Max-TV 01",Миргород
 https://iptv.prosto.tv/id487/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00478.png" group-title="📡 Mix-TV 01",Первый городской HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00478.png" group-title="📡 Max-TV 01",Первый городской HD
 https://iptv.prosto.tv/id478/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00385.png" group-title="📡 Mix-TV 01",Deutsche Welle
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00385.png" group-title="📡 Max-TV 01",Deutsche Welle
 https://iptv.prosto.tv/id385/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00392.png" group-title="📡 Mix-TV 01",EWTN
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00392.png" group-title="📡 Max-TV 01",EWTN
 https://iptv.prosto.tv/id392/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00399.png?1753116933" group-title="📡 Mix-TV 01",MEGOGO MUSIC
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00399.png?1753116933" group-title="📡 Max-TV 01",MEGOGO MUSIC
 https://iptv.prosto.tv/id399/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00400.png" group-title="📡 Mix-TV 01",NTA
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00400.png" group-title="📡 Max-TV 01",NTA
 https://iptv.prosto.tv/id400/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00401.png" group-title="📡 Mix-TV 01",Provence
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00401.png" group-title="📡 Max-TV 01",Provence
 https://iptv.prosto.tv/id401/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00520.png" group-title="📡 Mix-TV 01",МТМ Запорожье HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00520.png" group-title="📡 Max-TV 01",МТМ Запорожье HD
 https://iptv.prosto.tv/id520/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00406.png" group-title="📡 Mix-TV 01",TVP Info HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00406.png" group-title="📡 Max-TV 01",TVP Info HD
 https://iptv.prosto.tv/id406/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00407.png" group-title="📡 Mix-TV 01",TVP Polonia
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00407.png" group-title="📡 Max-TV 01",TVP Polonia
 https://iptv.prosto.tv/id407/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00573.png?1686039421" group-title="📡 Mix-TV 01",Армія ТБ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00573.png?1686039421" group-title="📡 Max-TV 01",Армія ТБ
 https://iptv.prosto.tv/id573/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00418.png" group-title="📡 Mix-TV 01",5 канал SD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00418.png" group-title="📡 Max-TV 01",5 канал SD
 https://iptv.prosto.tv/id418/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00241.jpg?1761056063" group-title="📡 Mix-TV 01",Prosto.TV
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00241.jpg?1761056063" group-title="📡 Max-TV 01",Prosto.TV
 https://iptv.prosto.tv/id241/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="📡 Mix-TV 01",Полонина
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="📡 Max-TV 01",Полонина
 https://iptv.prosto.tv/id564/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="📡 Mix-TV 01",Prosto Ukraine
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="📡 Max-TV 01",Prosto Ukraine
 https://iptv.prosto.tv/id563/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="📡 Mix-TV 01",Просто Дощ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="📡 Max-TV 01",Просто Дощ
 https://iptv.prosto.tv/id562/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="📡 Mix-TV 01",Підводний світ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="📡 Max-TV 01",Підводний світ
 https://iptv.prosto.tv/id561/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="📡 Mix-TV 01",AviaStream
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="📡 Max-TV 01",AviaStream
 https://iptv.prosto.tv/id549/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00548.jpg" group-title="📡 Mix-TV 01",Кримський міст В ОГНІ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00548.jpg" group-title="📡 Max-TV 01",Кримський міст В ОГНІ
 https://iptv.prosto.tv/id548/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00547.jpg" group-title="📡 Mix-TV 01",москва ПАЛАЄ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00547.jpg" group-title="📡 Max-TV 01",москва ПАЛАЄ
 https://iptv.prosto.tv/id547/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00545.jpg" group-title="📡 Mix-TV 01",ПАЛАЄ кремль
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00545.jpg" group-title="📡 Max-TV 01",ПАЛАЄ кремль
 https://iptv.prosto.tv/id545/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="📡 Mix-TV 01",Катастрофа ONLINE
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="📡 Max-TV 01",Катастрофа ONLINE
 https://iptv.prosto.tv/id295/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="📡 Mix-TV 01",ЕкоСистема
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="📡 Max-TV 01",ЕкоСистема
 https://iptv.prosto.tv/id302/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="📡 Mix-TV 01",Stream CITY
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="📡 Max-TV 01",Stream CITY
 https://iptv.prosto.tv/id318/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="📡 Mix-TV 01",Аквариум
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="📡 Max-TV 01",Аквариум
 https://iptv.prosto.tv/id348/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="📡 Mix-TV 01",Просто Релакс
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="📡 Max-TV 01",Просто Релакс
 https://iptv.prosto.tv/id492/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="📡 Mix-TV 01",Просто Водоспад
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="📡 Max-TV 01",Просто Водоспад
 https://iptv.prosto.tv/id500/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="📡 Mix-TV 01",Просто Лес
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="📡 Max-TV 01",Просто Лес
 https://iptv.prosto.tv/id503/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="📡 Mix-TV 01",Просто Вогонь
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="📡 Max-TV 01",Просто Вогонь
 https://iptv.prosto.tv/id504/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="📡 Mix-TV 01",Просто Пляж
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="📡 Max-TV 01",Просто Пляж
 https://iptv.prosto.tv/id505/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00506.png?1686039500" group-title="📡 Mix-TV 01",Хроника Войны
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00506.png?1686039500" group-title="📡 Max-TV 01",Хроника Войны
 https://iptv.prosto.tv/id506/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="📡 Mix-TV 01",Просто Тропіки
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="📡 Max-TV 01",Просто Тропіки
 https://iptv.prosto.tv/id508/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="📡 Mix-TV 01",Просто Тераса
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="📡 Max-TV 01",Просто Тераса
 https://iptv.prosto.tv/id509/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00511.jpg" group-title="📡 Mix-TV 01",Просто Осень
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00511.jpg" group-title="📡 Max-TV 01",Просто Осень
 https://iptv.prosto.tv/id511/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="📡 Mix-TV 01",Просто Ріка
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="📡 Max-TV 01",Просто Ріка
 https://iptv.prosto.tv/id512/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="📡 Mix-TV 01",Просто Джунглі
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="📡 Max-TV 01",Просто Джунглі
 https://iptv.prosto.tv/id513/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="📡 Mix-TV 01",Просто Гори
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="📡 Max-TV 01",Просто Гори
 https://iptv.prosto.tv/id514/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="📡 Mix-TV 01",Просто Озеро
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="📡 Max-TV 01",Просто Озеро
 https://iptv.prosto.tv/id515/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="📡 Mix-TV 01",Prosto Fishing
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="📡 Max-TV 01",Prosto Fishing
 https://iptv.prosto.tv/id532/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="📡 Mix-TV 01",Просто Басейн
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="📡 Max-TV 01",Просто Басейн
 https://iptv.prosto.tv/id533/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="📡 Mix-TV 01",Флора
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="📡 Max-TV 01",Флора
 https://iptv.prosto.tv/id536/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="📡 Mix-TV 01",Просто Сад
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="📡 Max-TV 01",Просто Сад
 https://iptv.prosto.tv/id537/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="📡 Mix-TV 01",TrainStream
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="📡 Max-TV 01",TrainStream
 https://iptv.prosto.tv/id544/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="📡 Mix-TV 01",Prosto Night
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="📡 Max-TV 01",Prosto Night
 https://iptv.prosto.tv/id555/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00580.jpg?1689751221" group-title="📡 Mix-TV 01",Prosto Park
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00580.jpg?1689751221" group-title="📡 Max-TV 01",Prosto Park
 https://iptv.prosto.tv/id580/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="353" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00353.png" tvg-name="UA КРОПИВНИЦЬКИЙ" group-title="📡 Mix-TV 01",Суспільне Кропивницький HD
+#EXTINF:-1 tvg-id="353" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00353.png" tvg-name="UA КРОПИВНИЦЬКИЙ" group-title="📡 Max-TV 01",Суспільне Кропивницький HD
 https://iptv.prosto.tv/id353/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00725.png?1708408618" group-title="📡 Mix-TV 01",Ми–Україна+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00725.png?1708408618" group-title="📡 Max-TV 01",Ми–Україна+ HD
 https://iptv.prosto.tv/id725/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00955.png?1755002780" group-title="📡 Mix-TV 01",TVii.TV HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00955.png?1755002780" group-title="📡 Max-TV 01",TVii.TV HD
 https://iptv.prosto.tv/id955/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="117" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00117.png" tvg-name="М1" group-title="📡 Mix-TV 01",М1 HD
+#EXTINF:-1 tvg-id="117" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00117.png" tvg-name="М1" group-title="📡 Max-TV 01",М1 HD
 https://iptv.prosto.tv/id117/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="118" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00118.png" tvg-name="М2" group-title="📡 Mix-TV 01",М2 HD
+#EXTINF:-1 tvg-id="118" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00118.png" tvg-name="М2" group-title="📡 Max-TV 01",М2 HD
 https://iptv.prosto.tv/id118/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00554.png" group-title="📡 Mix-TV 01",MUZVAR TV HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00554.png" group-title="📡 Max-TV 01",MUZVAR TV HD
 https://iptv.prosto.tv/id554/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="271" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00271.jpg?1738234826" tvg-name="4EVER" group-title="📡 Mix-TV 01",4ever music hd
+#EXTINF:-1 tvg-id="271" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00271.jpg?1738234826" tvg-name="4EVER" group-title="📡 Max-TV 01",4ever music hd
 https://iptv.prosto.tv/id271/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00559.png" group-title="📡 Mix-TV 01",UA Music HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00559.png" group-title="📡 Max-TV 01",UA Music HD
 https://iptv.prosto.tv/id559/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="272" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00272.png" tvg-name="EUMUSIC" group-title="📡 Mix-TV 01",EU.Music HD
+#EXTINF:-1 tvg-id="272" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00272.png" tvg-name="EUMUSIC" group-title="📡 Max-TV 01",EU.Music HD
 https://iptv.prosto.tv/id272/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="191" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00191.png" tvg-name="Mcm top" group-title="📡 Mix-TV 01",Mcm top
+#EXTINF:-1 tvg-id="191" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00191.png" tvg-name="Mcm top" group-title="📡 Max-TV 01",Mcm top
 https://iptv.prosto.tv/id191/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00488.png" group-title="📡 Mix-TV 01",Classic Music HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00488.png" group-title="📡 Max-TV 01",Classic Music HD
 https://iptv.prosto.tv/id488/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00350.png" group-title="📡 Mix-TV 01",InRating HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00350.png" group-title="📡 Max-TV 01",InRating HD
 https://iptv.prosto.tv/id350/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="124" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00124.png" tvg-name="360 Tune Box" group-title="📡 Mix-TV 01",360 Tune Box
+#EXTINF:-1 tvg-id="124" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00124.png" tvg-name="360 Tune Box" group-title="📡 Max-TV 01",360 Tune Box
 https://iptv.prosto.tv/id124/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00556.png" group-title="📡 Mix-TV 01",Медичний HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00556.png" group-title="📡 Max-TV 01",Медичний HD
 https://iptv.prosto.tv/id556/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00178.png" group-title="📡 Mix-TV 01",National Geographic Channel HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00178.png" group-title="📡 Max-TV 01",National Geographic Channel HD
 https://iptv.prosto.tv/id178/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00408.png" group-title="📡 Mix-TV 01",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00408.png" group-title="📡 Max-TV 01",Nat Geo Wild
 https://iptv.prosto.tv/id408/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="77" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00077.png" tvg-name="Viasat Nature" group-title="📡 Mix-TV 01",Viasat Nature
+#EXTINF:-1 tvg-id="77" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00077.png" tvg-name="Viasat Nature" group-title="📡 Max-TV 01",Viasat Nature
 https://iptv.prosto.tv/id77/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="79" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00079.png" tvg-name="Viasat Explore" group-title="📡 Mix-TV 01",Viasat Explore
+#EXTINF:-1 tvg-id="79" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00079.png" tvg-name="Viasat Explore" group-title="📡 Max-TV 01",Viasat Explore
 https://iptv.prosto.tv/id79/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="78" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00078.png" tvg-name="Viasat History" group-title="📡 Mix-TV 01",Viasat History HD
+#EXTINF:-1 tvg-id="78" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00078.png" tvg-name="Viasat History" group-title="📡 Max-TV 01",Viasat History HD
 https://iptv.prosto.tv/id78/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="275" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00275.png" tvg-name="History" group-title="📡 Mix-TV 01",History HD
+#EXTINF:-1 tvg-id="275" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00275.png" tvg-name="History" group-title="📡 Max-TV 01",History HD
 https://iptv.prosto.tv/id275/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00881.png?1727087805" group-title="📡 Mix-TV 01",TinyTeen HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00881.png?1727087805" group-title="📡 Max-TV 01",TinyTeen HD
 https://iptv.prosto.tv/id881/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00861.png?1715758383" group-title="📡 Mix-TV 01",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00861.png?1715758383" group-title="📡 Max-TV 01",Investigation Discovery
 https://iptv.prosto.tv/id861/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="279" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00279.jpg?1744635916" tvg-name="Эпоха HD" group-title="📡 Mix-TV 01",Світло HD
+#EXTINF:-1 tvg-id="279" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00279.jpg?1744635916" tvg-name="Эпоха HD" group-title="📡 Max-TV 01",Світло HD
 https://iptv.prosto.tv/id279/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="277" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00277.png" tvg-name="Дача" group-title="📡 Mix-TV 01",Дача HD
+#EXTINF:-1 tvg-id="277" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00277.png" tvg-name="Дача" group-title="📡 Max-TV 01",Дача HD
 https://iptv.prosto.tv/id277/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="85" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00085.png" tvg-name="DocuBox HD" group-title="📡 Mix-TV 01",DocuBox HD
+#EXTINF:-1 tvg-id="85" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00085.png" tvg-name="DocuBox HD" group-title="📡 Max-TV 01",DocuBox HD
 https://iptv.prosto.tv/id85/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00882.png?1727087951" group-title="📡 Mix-TV 01",LangLab HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00882.png?1727087951" group-title="📡 Max-TV 01",LangLab HD
 https://iptv.prosto.tv/id882/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="43" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00043.png" tvg-name="Эко-ТВ" group-title="📡 Mix-TV 01",Эко-ТВ HD
+#EXTINF:-1 tvg-id="43" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00043.png" tvg-name="Эко-ТВ" group-title="📡 Max-TV 01",Эко-ТВ HD
 https://iptv.prosto.tv/id43/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="260" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00260.png" tvg-name="36.6" group-title="📡 Mix-TV 01",36.6 HD
+#EXTINF:-1 tvg-id="260" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00260.png" tvg-name="36.6" group-title="📡 Max-TV 01",36.6 HD
 https://iptv.prosto.tv/id260/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00426.png" group-title="📡 Mix-TV 01",Travel channel Европа HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00426.png" group-title="📡 Max-TV 01",Travel channel Европа HD
 https://iptv.prosto.tv/id426/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="232" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00232.png" tvg-name="Animal Planet" group-title="📡 Mix-TV 01",Animal Planet
+#EXTINF:-1 tvg-id="232" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00232.png" tvg-name="Animal Planet" group-title="📡 Max-TV 01",Animal Planet
 https://iptv.prosto.tv/id232/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="209" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00209.png" tvg-name="Discovery Channel" group-title="📡 Mix-TV 01",Discovery Channel
+#EXTINF:-1 tvg-id="209" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00209.png" tvg-name="Discovery Channel" group-title="📡 Max-TV 01",Discovery Channel
 https://iptv.prosto.tv/id209/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00550.png" group-title="📡 Mix-TV 01",One Planet HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00550.png" group-title="📡 Max-TV 01",One Planet HD
 https://iptv.prosto.tv/id550/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00524.png" group-title="📡 Mix-TV 01",Travel XP HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00524.png" group-title="📡 Max-TV 01",Travel XP HD
 https://iptv.prosto.tv/id524/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00395.png" group-title="📡 Mix-TV 01",H2 HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00395.png" group-title="📡 Max-TV 01",H2 HD
 https://iptv.prosto.tv/id395/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="📡 Mix-TV 01",Space Stream
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="📡 Max-TV 01",Space Stream
 https://iptv.prosto.tv/id297/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="📡 Mix-TV 01",ПРО-ФАКТ
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="📡 Max-TV 01",ПРО-ФАКТ
 https://iptv.prosto.tv/id301/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="📡 Mix-TV 01",ZOO Stream
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="📡 Max-TV 01",ZOO Stream
 https://iptv.prosto.tv/id314/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00864.jpg?1716291735" group-title="📡 Mix-TV 01",Процес
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00864.jpg?1716291735" group-title="📡 Max-TV 01",Процес
 https://iptv.prosto.tv/id864/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg?1696314480" group-title="📡 Mix-TV 01",Світ Навколо
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg?1696314480" group-title="📡 Max-TV 01",Світ Навколо
 https://iptv.prosto.tv/id598/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00659.png?1698426815" group-title="📡 Mix-TV 01",One Planet+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00659.png?1698426815" group-title="📡 Max-TV 01",One Planet+ HD
 https://iptv.prosto.tv/id659/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00723.png?1715757715" group-title="📡 Mix-TV 01",Стосується кожного+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00723.png?1715757715" group-title="📡 Max-TV 01",Стосується кожного+ HD
 https://iptv.prosto.tv/id723/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00722.png?1708408772" group-title="📡 Mix-TV 01",Готуємо разом+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00722.png?1708408772" group-title="📡 Max-TV 01",Готуємо разом+ HD
 https://iptv.prosto.tv/id722/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="11" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00011.png" tvg-name="ТЕТ" group-title="📡 Mix-TV 01",ТЕТ HD
+#EXTINF:-1 tvg-id="11" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00011.png" tvg-name="ТЕТ" group-title="📡 Max-TV 01",ТЕТ HD
 https://iptv.prosto.tv/id11/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="12" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00012.png" tvg-name="К1" group-title="📡 Mix-TV 01",К1 HD
+#EXTINF:-1 tvg-id="12" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00012.png" tvg-name="К1" group-title="📡 Max-TV 01",К1 HD
 https://iptv.prosto.tv/id12/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="13" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00013.png" tvg-name="К2" group-title="📡 Mix-TV 01",К2 HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00013.png" tvg-name="К2" group-title="📡 Max-TV 01",К2 HD
 https://iptv.prosto.tv/id13/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="56" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00056.png" tvg-name="Мега" group-title="📡 Mix-TV 01",Мега HD
+#EXTINF:-1 tvg-id="56" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00056.png" tvg-name="Мега" group-title="📡 Max-TV 01",Мега HD
 https://iptv.prosto.tv/id56/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="9" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00009.png" tvg-name="НТН" group-title="📡 Mix-TV 01",НТН HD
+#EXTINF:-1 tvg-id="9" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00009.png" tvg-name="НТН" group-title="📡 Max-TV 01",НТН HD
 https://iptv.prosto.tv/id9/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="53" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00053.png" tvg-name="Zoom" group-title="📡 Mix-TV 01",Zoom HD
+#EXTINF:-1 tvg-id="53" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00053.png" tvg-name="Zoom" group-title="📡 Max-TV 01",Zoom HD
 https://iptv.prosto.tv/id53/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00553.png" group-title="📡 Mix-TV 01",1+1 Украина HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00553.png" group-title="📡 Max-TV 01",1+1 Украина HD
 https://iptv.prosto.tv/id553/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="59" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00059.png" tvg-name="Бигуди ТВ" group-title="📡 Mix-TV 01",Бигуди ТВ
+#EXTINF:-1 tvg-id="59" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00059.png" tvg-name="Бигуди ТВ" group-title="📡 Max-TV 01",Бигуди ТВ
 https://iptv.prosto.tv/id59/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="51" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00051.png" tvg-name="Солнце" group-title="📡 Mix-TV 01",Солнце
+#EXTINF:-1 tvg-id="51" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00051.png" tvg-name="Солнце" group-title="📡 Max-TV 01",Солнце
 https://iptv.prosto.tv/id51/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="65" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00065.png" tvg-name="ОЦЕ" group-title="📡 Mix-TV 01",ОЦЕ HD
+#EXTINF:-1 tvg-id="65" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00065.png" tvg-name="ОЦЕ" group-title="📡 Max-TV 01",ОЦЕ HD
 https://iptv.prosto.tv/id65/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="304" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00304.png" tvg-name="Кус-Кус" group-title="📡 Mix-TV 01",Кус-Кус
+#EXTINF:-1 tvg-id="304" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00304.png" tvg-name="Кус-Кус" group-title="📡 Max-TV 01",Кус-Кус
 https://iptv.prosto.tv/id304/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00541.png" group-title="📡 Mix-TV 01",Continent E HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00541.png" group-title="📡 Max-TV 01",Continent E HD
 https://iptv.prosto.tv/id541/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="55" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00055.png" tvg-name="Телевсесвит" group-title="📡 Mix-TV 01",Телевсесвит HD
+#EXTINF:-1 tvg-id="55" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00055.png" tvg-name="Телевсесвит" group-title="📡 Max-TV 01",Телевсесвит HD
 https://iptv.prosto.tv/id55/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00853.png?1715757970" group-title="📡 Mix-TV 01",ЖВЛ+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00853.png?1715757970" group-title="📡 Max-TV 01",ЖВЛ+ HD
 https://iptv.prosto.tv/id853/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00854.png?1715757878" group-title="📡 Mix-TV 01",Світ навиворіт+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00854.png?1715757878" group-title="📡 Max-TV 01",Світ навиворіт+ HD
 https://iptv.prosto.tv/id854/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00393.png" group-title="📡 Mix-TV 01",FilmUA LIVE HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00393.png" group-title="📡 Max-TV 01",FilmUA LIVE HD
 https://iptv.prosto.tv/id393/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="203" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00203.png" tvg-name="Gametoon" group-title="📡 Mix-TV 01",Gametoon HD
+#EXTINF:-1 tvg-id="203" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00203.png" tvg-name="Gametoon" group-title="📡 Max-TV 01",Gametoon HD
 https://iptv.prosto.tv/id203/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00414.png" group-title="📡 Mix-TV 01",ТЕТ SD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00414.png" group-title="📡 Max-TV 01",ТЕТ SD
 https://iptv.prosto.tv/id414/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00291.png" group-title="📡 Mix-TV 01",АкваSTREAM
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00291.png" group-title="📡 Max-TV 01",АкваSTREAM
 https://iptv.prosto.tv/id291/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00319.png" group-title="📡 Mix-TV 01",Prosto GAME
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00319.png" group-title="📡 Max-TV 01",Prosto GAME
 https://iptv.prosto.tv/id319/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00334.png" group-title="📡 Mix-TV 01",RecreatiON
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00334.png" group-title="📡 Max-TV 01",RecreatiON
 https://iptv.prosto.tv/id334/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="📡 Mix-TV 01",Просто Зима
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="📡 Max-TV 01",Просто Зима
 https://iptv.prosto.tv/id491/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00921.png?1733156183" group-title="📡 Mix-TV 01",Super+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00921.png?1733156183" group-title="📡 Max-TV 01",Super+ HD
 https://iptv.prosto.tv/id921/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00856.png?1715757562" group-title="📡 Mix-TV 01",Панянка-селянка+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00856.png?1715757562" group-title="📡 Max-TV 01",Панянка-селянка+ HD
 https://iptv.prosto.tv/id856/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00859.png?1715757257" group-title="📡 Mix-TV 01",Одруження наосліп+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00859.png?1715757257" group-title="📡 Max-TV 01",Одруження наосліп+ HD
 https://iptv.prosto.tv/id859/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00860.png?1715757131" group-title="📡 Mix-TV 01",Загублений світ+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00860.png?1715757131" group-title="📡 Max-TV 01",Загублений світ+ HD
 https://iptv.prosto.tv/id860/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00884.png?1727088565" group-title="📡 Mix-TV 01",Машина часу HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00884.png?1727088565" group-title="📡 Max-TV 01",Машина часу HD
 https://iptv.prosto.tv/id884/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00885.png?1727088593" group-title="📡 Mix-TV 01",Невигадані історії HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00885.png?1727088593" group-title="📡 Max-TV 01",Невигадані історії HD
 https://iptv.prosto.tv/id885/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00943.png?1738333166" group-title="📡 Mix-TV 01",демо | Хроніка+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00943.png?1738333166" group-title="📡 Max-TV 01",демо | Хроніка+ HD
 https://iptv.prosto.tv/id943/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00951.png?1740143546" group-title="📡 Mix-TV 01",Орел & Решка: Морський сезон HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00951.png?1740143546" group-title="📡 Max-TV 01",Орел & Решка: Морський сезон HD
 https://iptv.prosto.tv/id951/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00962.png?1743511530" group-title="📡 Mix-TV 01",Світ+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00962.png?1743511530" group-title="📡 Max-TV 01",Світ+ HD
 https://iptv.prosto.tv/id962/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01052.png?1750329523" group-title="📡 Mix-TV 01",Игра судьбы HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01052.png?1750329523" group-title="📡 Max-TV 01",Игра судьбы HD
 https://iptv.prosto.tv/id1052/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="316" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00316.png" tvg-name="Рыбалка" group-title="📡 Mix-TV 01",Рыбалка HD
+#EXTINF:-1 tvg-id="316" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00316.png" tvg-name="Рыбалка" group-title="📡 Max-TV 01",Рыбалка HD
 https://iptv.prosto.tv/id316/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00371.png" group-title="📡 Mix-TV 01",Setanta Sports+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00371.png" group-title="📡 Max-TV 01",Setanta Sports+ HD
 https://iptv.prosto.tv/id371/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="313" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00313.png" tvg-name="Setanta" group-title="📡 Mix-TV 01",Setanta Sports HD
+#EXTINF:-1 tvg-id="313" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00313.png" tvg-name="Setanta" group-title="📡 Max-TV 01",Setanta Sports HD
 https://iptv.prosto.tv/id313/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="86" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00086.png" tvg-name="Xsport" group-title="📡 Mix-TV 01",Xsport
+#EXTINF:-1 tvg-id="86" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00086.png" tvg-name="Xsport" group-title="📡 Max-TV 01",Xsport
 https://iptv.prosto.tv/id86/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="164" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00164.png" tvg-name="Xsport" group-title="📡 Mix-TV 01",XSport HD
+#EXTINF:-1 tvg-id="164" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00164.png" tvg-name="Xsport" group-title="📡 Max-TV 01",XSport HD
 https://iptv.prosto.tv/id164/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00343.png" group-title="📡 Mix-TV 01",Cars  Stars TV HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00343.png" group-title="📡 Max-TV 01",Cars  Stars TV HD
 https://iptv.prosto.tv/id343/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00501.png" group-title="📡 Mix-TV 01",Xsport+ HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00501.png" group-title="📡 Max-TV 01",Xsport+ HD
 https://iptv.prosto.tv/id501/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="87" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00087.png" tvg-name="FightBox HD" group-title="📡 Mix-TV 01",FightBox HD
+#EXTINF:-1 tvg-id="87" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00087.png" tvg-name="FightBox HD" group-title="📡 Max-TV 01",FightBox HD
 https://iptv.prosto.tv/id87/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="88" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00088.png" tvg-name="Fast & FunBox HD" group-title="📡 Mix-TV 01",Fast & FunBox HD
+#EXTINF:-1 tvg-id="88" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00088.png" tvg-name="Fast & FunBox HD" group-title="📡 Max-TV 01",Fast & FunBox HD
 https://iptv.prosto.tv/id88/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00091.png" group-title="📡 Mix-TV 01",Eurosport 1
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00091.png" group-title="📡 Max-TV 01",Eurosport 1
 https://iptv.prosto.tv/id91/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="92" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00092.png" tvg-name="Eurosport 2" group-title="📡 Mix-TV 01",Eurosport 2
+#EXTINF:-1 tvg-id="92" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00092.png" tvg-name="Eurosport 2" group-title="📡 Max-TV 01",Eurosport 2
 https://iptv.prosto.tv/id92/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="344" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00344.png" tvg-name="Eurosport 1 HD" group-title="📡 Mix-TV 01",Eurosport 1 HD
+#EXTINF:-1 tvg-id="344" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00344.png" tvg-name="Eurosport 1 HD" group-title="📡 Max-TV 01",Eurosport 1 HD
 https://iptv.prosto.tv/id344/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="📡 Mix-TV 01",X-Stream
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="📡 Max-TV 01",X-Stream
 https://iptv.prosto.tv/id296/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="📡 Mix-TV 01",PROSTO DRIVE
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="📡 Max-TV 01",PROSTO DRIVE
 https://iptv.prosto.tv/id349/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="41" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00041.png" tvg-name="CNL" group-title="📡 Mix-TV 01",GNC
+#EXTINF:-1 tvg-id="41" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00041.png" tvg-name="CNL" group-title="📡 Max-TV 01",GNC
 https://iptv.prosto.tv/id41/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="52" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00052.png" tvg-name="UA Культура" group-title="📡 Mix-TV 01",Суспільне Культура HD
+#EXTINF:-1 tvg-id="52" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00052.png" tvg-name="UA Культура" group-title="📡 Max-TV 01",Суспільне Культура HD
 https://iptv.prosto.tv/id52/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="60" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00060.png" tvg-name="Milady Television" group-title="📡 Mix-TV 01",Milady Television
+#EXTINF:-1 tvg-id="60" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00060.png" tvg-name="Milady Television" group-title="📡 Max-TV 01",Milady Television
 https://iptv.prosto.tv/id60/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="168" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00168.png" tvg-name="Караван ТВ" group-title="📡 Mix-TV 01",Караван ТВ
+#EXTINF:-1 tvg-id="168" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00168.png" tvg-name="Караван ТВ" group-title="📡 Max-TV 01",Караван ТВ
 https://iptv.prosto.tv/id168/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00345.png" group-title="📡 Mix-TV 01",UA Fashion TV HD
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00345.png" group-title="📡 Max-TV 01",UA Fashion TV HD
 https://iptv.prosto.tv/id345/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="📡 Mix-TV 01",RELAXON
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="📡 Max-TV 01",RELAXON
 https://iptv.prosto.tv/id307/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="📡 Mix-TV 01",КАМІН
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="📡 Max-TV 01",КАМІН
 https://iptv.prosto.tv/id310/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="📡 Mix-TV 01",Краєвид
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="📡 Max-TV 01",Краєвид
 https://iptv.prosto.tv/id522/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="161" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00161.png" tvg-name="Fashion TV" group-title="📡 Mix-TV 01",Fashion TV
+#EXTINF:-1 tvg-id="161" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00161.png" tvg-name="Fashion TV" group-title="📡 Max-TV 01",Fashion TV
 https://iptv.prosto.tv/id161/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 tvg-id="115" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00115.png" tvg-name="FashionBox HD" group-title="📡 Mix-TV 01",FashionBox HD
+#EXTINF:-1 tvg-id="115" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00115.png" tvg-name="FashionBox HD" group-title="📡 Max-TV 01",FashionBox HD
 https://iptv.prosto.tv/id115/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 group-title="📡 Mix-TV 02",Россия К
+#EXTINF:-1 group-title="📡 Max-TV ",Россия К
 http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="📡 Mix-TV 02",Россия 1
+#EXTINF:-1 group-title="📡 Max-TV ",Россия 1
 http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="📡 Mix-TV 02",ТНТ
+#EXTINF:-1 group-title="📡 Max-TV ",ТНТ
 http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="📡 Mix-TV 02",НТВ
+#EXTINF:-1 group-title="📡 Max-TV ",НТВ
 http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="📡 Mix-TV 02",Рен ТВ
+#EXTINF:-1 group-title="📡 Max-TV ",Рен ТВ
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="📡 Mix-TV 02",Моя планета HD
+#EXTINF:-1 group-title="📡 Max-TV ",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="📡 Mix-TV 02",Доктор
+#EXTINF:-1 group-title="📡 Max-TV ",Доктор
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="📡 Mix-TV 02",Живая планета
+#EXTINF:-1 group-title="📡 Max-TV ",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="📡 Mix-TV 02",Наука 2.0
+#EXTINF:-1 group-title="📡 Max-TV ",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="📡 Mix-TV 02",История
+#EXTINF:-1 group-title="📡 Max-TV ",История
 http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="📡 Mix-TV 02",Пес и Ко
+#EXTINF:-1 group-title="📡 Max-TV ",Пес и Ко
 http://185.46.16.239:8000/Pes_i_Ko
-#EXTINF:-1 group-title="📡 Mix-TV 02",РЖД ТВ
+#EXTINF:-1 group-title="📡 Max-TV ",РЖД ТВ
 http://185.46.16.239:8000/Nat_Geo_Wild_HD
-#EXTINF:-1 group-title="📡 Mix-TV 02",Звезда
+#EXTINF:-1 group-title="📡 Max-TV ",Звезда
 http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="📡 Mix-TV 02",ТВ3
+#EXTINF:-1 group-title="📡 Max-TV ",ТВ3
 http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="📡 Mix-TV 02",СТС
+#EXTINF:-1 group-title="📡 Max-TV ",СТС
 http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="📡 Mix-TV 02",ОТР
+#EXTINF:-1 group-title="📡 Max-TV ",ОТР
 http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="📡 Mix-TV 02",МИР
+#EXTINF:-1 group-title="📡 Max-TV ",МИР
 http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="📡 Mix-TV 02",Домашний
+#EXTINF:-1 group-title="📡 Max-TV ",Домашний
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 group-title="📡 Mix-TV 02",Ю
+#EXTINF:-1 group-title="📡 Max-TV ",Ю
 http://185.46.16.239:8000/YU_TV
-#EXTINF:-1 group-title="📡 Mix-TV 02",Пятница
+#EXTINF:-1 group-title="📡 Max-TV ",Пятница
 http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 group-title="📡 Mix-TV 02",Спас
+#EXTINF:-1 group-title="📡 Max-TV ",Спас
 http://185.46.16.239:8000/Spas
-#EXTINF:-1 group-title="📡 Mix-TV 02",Союз
+#EXTINF:-1 group-title="📡 Max-TV ",Союз
 http://185.46.16.239:8000/Soyuz
-#EXTINF:-1 group-title="📡 Mix-TV 02",Драйв
+#EXTINF:-1 group-title="📡 Max-TV ",Драйв
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 group-title="📡 Mix-TV 02",Русский иллюзион
+#EXTINF:-1 group-title="📡 Max-TV ",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="📡 Mix-TV 02",Иллюзион+
+#EXTINF:-1 group-title="📡 Max-TV ",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="📡 Mix-TV 02",Кино ТВ
+#EXTINF:-1 group-title="📡 Max-TV ",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="📡 Mix-TV 02",Еврокино
+#EXTINF:-1 group-title="📡 Max-TV ",Еврокино
 http://185.46.16.239:8000/Yevrokino
-#EXTINF:-1 group-title="📡 Mix-TV 02",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 group-title="📡 Max-TV ",НАШЕ НОВОЕ КИНО
 http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 group-title="📡 Mix-TV 02",Русский роман
+#EXTINF:-1 group-title="📡 Max-TV ",Русский роман
 http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="📡 Mix-TV 02",Cinema
+#EXTINF:-1 group-title="📡 Max-TV ",Cinema
 http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="📡 Mix-TV 02",Кинокомедия
+#EXTINF:-1 group-title="📡 Max-TV ",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 group-title="📡 Mix-TV 02",Киномикс
+#EXTINF:-1 group-title="📡 Max-TV ",Киномикс
 http://185.46.16.239:8000/Fox_Life_HD
-#EXTINF:-1 group-title="📡 Mix-TV 02",МузТВ
+#EXTINF:-1 group-title="📡 Max-TV ",МузТВ
 http://185.46.16.239:8000/Muz_TV
-#EXTINF:-1 group-title="📡 Mix-TV 02",Шансон ТВ
+#EXTINF:-1 group-title="📡 Max-TV ",Шансон ТВ
 http://185.46.16.239:8000/Shanson
-#EXTINF:-1 group-title="📡 Mix-TV 02",ТНТ Music
+#EXTINF:-1 group-title="📡 Max-TV ",ТНТ Music
 http://185.46.16.239:8000/Nashe_TV
-#EXTINF:-1 group-title="📡 Mix-TV 02",КАРУСЕЛЬ
+#EXTINF:-1 group-title="📡 Max-TV ",КАРУСЕЛЬ
 http://185.46.16.239:8000/Karusel
-#EXTINF:-1 group-title="📡 Mix-TV 02",Уникум
+#EXTINF:-1 group-title="📡 Max-TV ",Уникум
 http://185.46.16.239:8000/Detskiy
-#EXTINF:-1 group-title="📡 Mix-TV 02",Мульт
+#EXTINF:-1 group-title="📡 Max-TV ",Мульт
 http://185.46.16.239:8000/Mult
-#EXTINF:-1 group-title="📡 Mix-TV 02",Мульт HD
+#EXTINF:-1 group-title="📡 Max-TV ",Мульт HD
 http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 group-title="📡 Mix-TV 02",В гостях у сказки HD
+#EXTINF:-1 group-title="📡 Max-TV ",В гостях у сказки HD
 http://185.46.16.239:8000/V_gostyakh_u_skazki
-#EXTINF:-1 group-title="📡 Mix-TV 02",Супергерои
+#EXTINF:-1 group-title="📡 Max-TV ",Супергерои
 http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="📡 Mix-TV 02",Солнце
+#EXTINF:-1 group-title="📡 Max-TV ",Солнце
 http://185.46.16.239:8000/Disney_Channel
-#EXTINF:-1 group-title="📡 Mix-TV 02",Ani
+#EXTINF:-1 group-title="📡 Max-TV ",Ani
 http://185.46.16.239:8000/Ani.m3u8
 
 24/7)",ВК Киноᴴᴰ
