@@ -4486,93 +4486,93 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ri
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=aRipwmdu9r_X8ASSHso65Q&e=2074853897&scheme=https
 #EXTINF:-1,Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=83s6CXQbu029G-EEvRSDkQ&e=2074853897&scheme=https
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="💎",TV1000 HD
+#EXTINF:-1 group-title="💎 max",TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=YXqDtJ5PrDSe3tmc8MeOEA&e=1776885041&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="💎",TV1000 Action HD
+#EXTINF:-1 group-title="💎 max",TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=cyHkNHyNlKjyMSaDl9s5Iw&e=1776885054&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="💎",Viju TV1000 Romantica HD
+#EXTINF:-1 group-title="💎 max",Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="💎",DTR Zona 1
+#EXTINF:-1 group-title="💎 max",DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="💎",DTR 
+#EXTINF:-1 group-title="💎 max",DTR 
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 group-title="💎",Ош ТВ [KG]
+#EXTINF:-1 group-title="💎 max",Ош ТВ [KG]
 http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:-1 group-title="💎",Россия 1 HD
+#EXTINF:-1 group-title="💎 max",Россия 1 HD
 http://87.246.54.249:8080/Rossia1/index.m3u8
-#EXTINF:-1 group-title="💎",Пятница! International
+#EXTINF:-1 group-title="💎 max",Пятница! International
 http://87.246.54.90:8080/piatnica/mpegts
-#EXTINF:-1 group-title="💎",Viasat Nature
+#EXTINF:-1 group-title="💎 max",Viasat Nature
 http://87.246.54.249:8080/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="💎",СТБ UA
+#EXTINF:-1 group-title="💎 max",СТБ UA
 http://87.246.54.249:8080/espressotv/index.m3u8
-#EXTINF:-1 group-title="💎",Мир сериала
+#EXTINF:-1 group-title="💎 max",Мир сериала
 http://87.246.54.249:8080/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="💎",RTVI
+#EXTINF:-1 group-title="💎 max",RTVI
 http://87.246.54.249:8080/RTVI/index.m3u8
-#EXTINF:-1 group-title="💎 ",СТС Kids
+#EXTINF:-1 group-title="💎 max",СТС Kids
 http://87.246.54.249:8080/CTC_Kids/index.m3u8
-#EXTINF:-1 group-title="💎",Карусель
+#EXTINF:-1 group-title="💎 max",Карусель
 http://87.246.54.249:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
 https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-#EXTINF:-1 group-title="💎",Матч! Страна
+#EXTINF:-1 group-title="💎 max",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
-#EXTINF:-1 group-title="💎",Viasat Kino Comedy
+#EXTINF:-1 group-title="💎 max",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="💎",1+1 Марафон UA
+#EXTINF:-1 group-title="💎 max",1+1 Марафон UA
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 group-title="💎" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
+#EXTINF:-1 group-title="💎 max" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 group-title="💎"⁴Загородная жизнь
+#EXTINF:-1 group-title="💎 max"⁴Загородная жизнь
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="",ДимГрад 24
+#EXTINF:-1 group-title="💎 max",ДимГрад 24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
-XTINF:-1 group-title="💎",Наша тема
+XTINF:-1 group-title="💎 max",Наша тема
 http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 group-title="💎",Первый Псковский
+#EXTINF:-1 group-title="💎 max",Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 group-title="💎 ",Спортивный
+#EXTINF:-1 group-title="💎 max",Спортивный
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="💎",CGTN Русский
+#EXTINF:-1 group-title="💎 max",CGTN Русский
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 group-title=" 💎",Патриот
+#EXTINF:-1 group-title=" 💎 max",Патриот
 http://185.46.48.18:80/asvtv/mono.m3u8
-#EXTINF:-1 group-title="💎",Cinema
+#EXTINF:-1 group-title="💎 max",Cinema
 http://185.46.48.18:80/cinema/mono.m3u8
-#EXTINF:-1 group-title="💎",Осетия Иристон
+#EXTINF:-1 group-title="💎 max",Осетия Иристон
 http://185.46.48.18:80/iriston/mono.m3u8
-#EXTINF:-1 group-title="💎",Матч ТВ
+#EXTINF:-1 group-title="💎 max",Матч ТВ
 http://185.46.48.18:80/match/mono.m3u8
-#EXTINF:-1 group-title="💎",Шансон ТВ
+#EXTINF:-1 group-title="💎 max",Шансон ТВ
 http://185.46.48.18:80/shanson/mono.m3u8
-#EXTINF:-1 group-title="💎", Київ HD
+#EXTINF:-1 group-title="💎 max", Київ HD
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 group-title="💎", 5 Канал HD
+#EXTINF:-1 group-title="💎 max", 5 Канал HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 group-title="💎", Еспресо HD
+#EXTINF:-1 group-title="💎 max", Еспресо HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 group-title="💎" tvg-id="deutsche-welle-eu", Deutsche Welle
+#EXTINF:-1 group-title="💎 max" tvg-id="deutsche-welle-eu", Deutsche Welle
 https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
-#EXTINF:-1 group-title="💎", France 24
+#EXTINF:-1 group-title="💎 max", France 24
 https://api-tv.ipnet.ua/api/v1/manifest/1311962630.m3u8
-#EXTINF:-1 group-title="💎", Рада
+#EXTINF:-1 group-title="💎 max", Рада
 https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
-#EXTINF:-1 group-title="💎", UA: ПЕРШИЙ HD
+#EXTINF:-1 group-title="💎 max", UA: ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="💎", МИ - УКРАЇНА HD
+#EXTINF:-1 group-title="💎 max ", МИ - УКРАЇНА HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 group-title="💎",Армія ТБ
+#EXTINF:-1 group-title="💎 max ",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 
 
