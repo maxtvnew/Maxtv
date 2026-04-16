@@ -170,80 +170,80 @@ https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
-#EXTINF:-1 group-title="Uplink",Наше новое кино
+#EXTINF:-1 group-title="Viseon",Наше новое кино
 https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",TV1000 Русское кино
+#EXTINF:-1 group-title="Viseon",TV1000 Русское кино
 https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",TV1000 Action
+#EXTINF:-1 group-title="Viseon",TV1000 Action
 https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",TV1000
+#EXTINF:-1 group-title="Viseon",TV1000
 https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",КТК
+#EXTINF:-1 group-title="Viseon",КТК
 https://fs.uplink.kz/ktk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",НТК
+#EXTINF:-1 group-title="Viseon",НТК
 https://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Astana TV
+#EXTINF:-1 group-title="Viseon",Astana TV
 https://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Atameken Business
+#EXTINF:-1 group-title="Viseon",Atameken Business
 https://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink" tvg-id="balapan",Balapan   
+#EXTINF:-1 group-title="Viseon" tvg-id="balapan",Balapan   
 https://fs.uplink.kz/balapan/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Кухня ТВ
+#EXTINF:-1 group-title="Viseon",Кухня ТВ
 https://fs.uplink.kz/kuhnya_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",КВН ТВ
+#EXTINF:-1 group-title="Viseon",КВН ТВ
 https://fs.uplink.kz/kvn_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Мир сериала
+#EXTINF:-1 group-title="Viseon",Мир сериала
 https://fs.uplink.kz/mir_seriala/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Мир
+#EXTINF:-1 group-title="Viseon",Мир
 https://fs.uplink.kz/mir/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Viseon",Мосфильм. Золотая коллекция
 https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Ностальгия
+#EXTINF:-1 group-title="Viseon",Ностальгия
 https://fs.uplink.kz/nostalgia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Новое телевидение
+#EXTINF:-1 group-title="Viseon",Новое телевидение
 https://fs.uplink.kz/novoe_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",НСТ
+#EXTINF:-1 group-title="Viseon",НСТ
 https://fs.uplink.kz/nstv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink" tvg-id="o2tv",o2tv
+#EXTINF:-1 group-title="Viseon" tvg-id="o2tv",o2tv
 https://fs.uplink.kz/o2tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Оружие
+#EXTINF:-1 group-title="Viseon",Оружие
 https://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Перец
+#EXTINF:-1 group-title="Viseon",Перец
 https://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Победа
+#EXTINF:-1 group-title="Viseon",Победа
 https://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Поехали!
+#EXTINF:-1 group-title="Viseon",Поехали!
 https://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Fox HD
+#EXTINF:-1 group-title="Viseon",Fox HD
 https://fs.uplink.kz/red/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Русский иллюзион
+#EXTINF:-1 group-title="Viseon",Русский иллюзион
 https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",СТС
+#EXTINF:-1 group-title="Viseon",СТС
 https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",СТС Love
+#EXTINF:-1 group-title="Viseon",СТС Love
 https://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Телекафе
+#EXTINF:-1 group-title="Viseon",Телекафе
 https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Точка отрыва
+#EXTINF:-1 group-title="Viseon",Точка отрыва
 https://fs.uplink.kz/tochka_otriva/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",TV XXI
+#EXTINF:-1 group-title="Viseon",TV XXI
 https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Ю
+#EXTINF:-1 group-title="Viseon",Ю
 https://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Время
+#EXTINF:-1 group-title="Viseon",Время
 https://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Загородный
+#EXTINF:-1 group-title="Viseon",Загородный
 https://fs.uplink.kz/zagorodniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Жара
+#EXTINF:-1 group-title="Viseon",Жара
 https://fs.uplink.kz/zhara/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Живи
+#EXTINF:-1 group-title="Viseon",Живи
 https://fs.uplink.kz/zhivi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Зоопарк
+#EXTINF:-1 group-title="Viseon",Зоопарк
 https://fs.uplink.kz/zoopark/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",Звезда
+#EXTINF:-1 group-title="Viseon",Звезда
 https://fs.uplink.kz/zvezda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink",МузТВ
-https://fs.uplink.kz/muz_tv/
+
+
 
 
 
