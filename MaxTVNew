@@ -497,14 +497,14 @@ http://37.46.49.14:18010/play/a03e/index.m3u8
 http://37.46.49.14:18010/play/a04c/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Setanta Qazaqstan
 http://37.46.49.14:18010/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Setanta Sport+ [KZ]
+http://37.46.49.14:18010/play/a056/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆", Setanta Sport Eurasia
 http://37.46.49.14:18010/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Сетанта Спорт Евразия Плюс
 http://37.46.49.14:18010/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Sky Sports Premier League
 http://37.46.49.14:18010/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Спорт 🏆",Setanta Sport+ [KZ]
-http://37.46.49.14:18010/play/a056/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Viasat Sport
 http://37.46.49.14:18010/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Матч! Арена
