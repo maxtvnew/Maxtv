@@ -488,6 +488,39 @@ https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Viseon",Мультиландия
 https://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="Спорт 🏆",KHL Prime HD
+http://37.46.49.14:18010/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",NBA TV HD
+http://37.46.49.14:18010/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",QAZSPORT HD
+http://37.46.49.14:18010/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Setanta Qazaqstan
+http://37.46.49.14:18010/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆", Setanta Sport Eurasia
+http://37.46.49.14:18010/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Сетанта Спорт Евразия Плюс
+http://37.46.49.14:18010/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Sky Sports Premier League
+http://37.46.49.14:18010/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Setanta Sport+ [KZ]
+http://37.46.49.14:18010/play/a056/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Viasat Sport
+http://37.46.49.14:18010/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Арена
+http://37.46.49.14:18010/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Боец
+http://37.46.49.14:18010/play/a09g/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Страна
+http://37.46.49.14:18010/play/a09o/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч ТВ
+http://37.46.49.14:18010/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Футбол 1
+http://37.46.49.14:18010/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Футбол 2
+http://37.46.49.14:18010/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Спорт 🏆",Матч! Футбол 3
+http://37.46.49.14:18010/play/a09f/index.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Eurosport 1 HD
 https://fs.uplink.kz/eurosport1/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт 🏆",Eurosport 2 HD
