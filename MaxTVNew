@@ -531,8 +531,7 @@ https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://fs.uplink.kz/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт 🏆",Матч! Планета
 https://fs.uplink.kz/match_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Turon Media",1HD
-https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Спорт 🏆",Trace Sport Stars HD
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт 🏆",Uzreport HD
