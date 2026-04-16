@@ -177,7 +177,7 @@ http://46.53.208.4:80/live/214-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/849-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Mega",НТВ Право
 http://46.53.208.4:80/live/992-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Mega ",НТВ Стиль
+#EXTINF:-1 group-title="Mega",НТВ Стиль
 http://46.53.208.4:80/live/175-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Mega",НТВ Сериал
 http://46.53.208.4:80/live/2065-req_offset_28000000-req_window_0-3k_v5.m3u8
