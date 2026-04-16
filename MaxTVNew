@@ -326,7 +326,7 @@ http://213.230.65.254:8200/play/a022
 http://213.230.65.254:8200/play/a023
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",365 Дней ТВ
 http://213.230.65.254:8200/play/a024
-#EXTINF:-1 group-title="Узбектелеком🇺🇿",Охота и Рыбалка
+#EXTINF:-1 group-title="Узбектелеком 🇺🇿",Охота и Рыбалка
 http://213.230.65.254:8200/play/a025
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",Ocean TV
 http://213.230.65.254:8200/play/a027
@@ -417,7 +417,6 @@ http://213.230.65.254:8200/play/a00l
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",Makon TV HD
 https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
 
-5.254:8200/play/a00m
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",MiMi TV HD
 http://213.230.65.254:8200/play/a00n
 #EXTINF:-1 group-title="Узбектелеком 🇺🇿",O'zbekiston 24 HD
@@ -514,7 +513,7 @@ http://46.32.176.50/viasathistory/index.m3u8
 http://46.32.176.50/viasatnature/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature HD
 http://46.32.176.50/ViasatNatureHD/index.m3u8
-ndex.m3u8
+
 #EXTINF:-1 group-title="IZONE", Дикий
 http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 group-title="IZONE", History HD
